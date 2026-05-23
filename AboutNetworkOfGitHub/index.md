@@ -3,7 +3,7 @@ title: 关于访问GitHub的一些解决方案
 published: 2026-05-21
 description: "根据个人经验，分享一些访问GitHub的解决方案。"
 image: "assets/image.png"
-tags: ["GitHub", "DNS", "Watt Toolkit"]
+tags: ["GitHub", "DNS", "Watt-Toolkit"]
 category: Note
 draft: false
 player:
