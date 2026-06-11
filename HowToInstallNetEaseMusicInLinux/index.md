@@ -3,7 +3,7 @@ title: How To Install NetEase Music In Linux
 published: 2025-02-14
 description: "讲诉一种在Linux系统上安装网易云音乐的方法"
 image: ""
-tags: ["NetEaseMusic", "Linux", "Wine"]
+tags: ["NCM", "Linux", "Wine"]
 category: Linux
 draft: false
 ---
@@ -28,7 +28,7 @@ draft: false
 
 ## 安装网易云音乐
 
-下载地址：https://music.163.com/#/download
+下载地址：<https://music.163.com/#/download>
 
 选择最新的windows客户端：PC端，当然，怀旧也可能行。
 
