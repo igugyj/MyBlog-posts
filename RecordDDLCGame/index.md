@@ -8,7 +8,7 @@ category: Daily
 draft: false
 player:
   source: "netease"
-  link: "//music.163.com/outchain/player?type=2&id=523658868&auto=1&height=66"
+  link: "//music.163.com/outchain/player?type=2&id=523658868&auto=0&height=66"
   bottom: "40px"
   left: "40px"
   autoPlay: false
