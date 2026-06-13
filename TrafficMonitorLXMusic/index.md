@@ -57,3 +57,37 @@ NCM我也是才发现有个插件社区，具体的不透露，可以自己查�
 ![alt text](assets/image-1.png)
 
 我的开发能力大部分是社区养出来的啊（& AI）
+
+### BetterNCM插件安装
+
+以下是我总结的一些方式
+
+#### 可以直接用官方收录的插件源安装
+
+#### 用review源安装，先安装支持review源的插件
+
+以上两种方式可能需要如此设置：
+
+![alt text](assets/image-2.png)
+
+#### 纯手动
+
+目前我的`ncmapi`插件是以这种方式在运行
+
+依据[chromatic - wiki: 创建第一个插件](https://github.com/std-microblock/chromatic/wiki/%E5%88%9B%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8F%92%E4%BB%B6)，在插件文件夹下的`plugins_dev`是支持自己的插件的：
+
+```txt
+- 插件文件夹(C:\betterncm)
+    - plugins_dev
+        - self_plugins_1
+        - self_plugins_2
+        - ncmapi
+            - manifest.json
+            - .dll 动态链接库
+            - .js
+            - preview.png
+```
+
+依此结构似乎可行，由于我只有一个自己创建的插件，尚不清楚其是否支持多个插件。
+
+至于插件怎么来，可以去对应的仓库`release`里面找，实在找不到的，可以骚扰作者(
