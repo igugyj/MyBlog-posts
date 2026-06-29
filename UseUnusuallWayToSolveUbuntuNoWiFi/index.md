@@ -49,7 +49,7 @@ Linux windows 6.8.0-52-generic #53-Ubuntu SMP PREEMPT_DYNAMIC Sat Jan 11 00:06:2
 
 可以看到，我这里目前没有WiFI功能
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 使用以下命令查看网卡信息
 
@@ -145,7 +145,7 @@ vmnet8             ethernet  未托管        --
 
 检查发现还是没有WiFi功能
 
-![](image.png)
+![](assets/image.png)
 
 ## 检查ubuntu系统日志
 
@@ -314,19 +314,19 @@ sudo journalctl -xe
 - 按下super+L （win+L）锁定电脑（可以不锁）
 
   然后查看系统菜单中，目前没有WiFi标识
-  ![alt text](image-3.png)
+  ![alt text](assets/image-3.png)
 
 - 点击系统菜单中的电源按钮，点击挂起，等待10s左右，然后打开屏幕，检查系统菜单
 
-- ![alt text](image-4.png)
+- ![alt text](assets/image-4.png)
 
   可以看到，目前wifi功能出现，是否有效待定
-  ![alt text](image-5.png)
+  ![alt text](assets/image-5.png)
 
   只要键盘上面的第三个标志（wifi）亮了即表示成功（不一定，连接了wifi可能才亮，失败了）
-  ![alt text](image-6.png)
+  ![alt text](assets/image-6.png)
 
-  ![alt text](image-1.png)
+  ![alt text](assets/image-1.png)
 
 # 总结
 

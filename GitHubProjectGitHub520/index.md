@@ -25,3 +25,5 @@ draft: false
 那个词怎么说的来着？`相见恨晚`，我要是早点发现这个项目，就可以省一半的魔力吧，这一半的魔力就可以...
 
 ![alt text](assets/laugh.gif)
+
+[关于访问GitHub的一些解决方案](../AboutNetworkOfGitHub/)

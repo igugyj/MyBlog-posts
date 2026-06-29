@@ -12,11 +12,11 @@ draft: false
 
 这是360浏览器的起始页
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 这是Edge的，还是优化后的，不然和360一样——满屏广告
 
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 可是360的无法通过一般设置改成Edge那样的。
 
@@ -30,9 +30,9 @@ A：自己动手，丰衣足食！
 
 Look——
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
-![alt text](image-3.png)
+![alt text](assets/image-3.png)
 
 ### 那你问我——怎么做？
 
@@ -41,16 +41,17 @@ Look——
 用JavaScript（其实我不会）写一个html文件出来，不会？把想要实现的想法给AI就行，让它帮你写：
 
 这是DeepSeek帮我写的（作为一个开发者，改改代码还是可以的），以下代码实现的就是上面那种效果：
+
 ```html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        * { 
-            margin: 0; 
-            padding: 0; 
-            box-sizing: border-box; 
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
 
         /* 新增文字容器样式 */
@@ -74,7 +75,7 @@ Look——
         const img = document.createElement('img');
         img.src = "D:/Users/21460/Pictures/wallpaper/2d6eb26d900a4631817007b08e7bf93e.jpg";
         img.alt = '全屏图片';
-        
+
         // 通过 JS 设置全屏样式
         Object.assign(img.style, {
             width: '100vw',
@@ -97,13 +98,22 @@ Look——
 </body>
 </html>
 ```
+
 把这个html文件放到系统的某个位置
-![alt text](image-4.png)
+![alt text](assets/image-4.png)
 
 然后改一下浏览器的起始页：
-![alt text](image-6.png)
-![alt text](image-5.png)
+![alt text](assets/image-6.png)
+![alt text](assets/image-5.png)
 
 设置到此结束，再麻烦360锁定一下主页，除了你，谁都不能再动你的主页啦！
 
 如果你JavaScript比较强得话，在这个页面上实现一些功能也未尝不可。
+
+---
+>[!NOTE]
+> 2026-06-29
+
+现在我在用自己写的首页插件，由于我没有钱&visa卡（能使用国外支付的银行卡），只在Firefox上用着，Edge/Chrome自用的话还得现编译。
+
+<https://github.com/igugyj/PTab>

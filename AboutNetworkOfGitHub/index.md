@@ -35,6 +35,8 @@ player:
 
 相关工具有`SwitchHost`，`AdGuard Home`等。
 
+[强烈推荐开源项目 GitHub520](../GitHubProjectGitHub520/)
+
 ### 加速器
 
 用`Watt Toolkit`加速GitHub，可以获得较好的效果，但是效果有时不太理想（能进入但图片加载不了），综合下来看是非常好的，但有的时候可能会妨碍其他软件的网络（未验证）。给到`顶级`。

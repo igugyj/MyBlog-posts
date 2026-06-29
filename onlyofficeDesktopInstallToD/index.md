@@ -29,7 +29,7 @@ DesktopEditors_x64.exe /enabledirpage
 
 然后运行安装包就有选择路径的选项了：
 
-![](PixPin_2025-11-19_12-48-50.png)
+![](assets/PixPin_2025-11-19_12-48-50.png)
 
 ---
 

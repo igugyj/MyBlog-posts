@@ -13,10 +13,10 @@ draft: false
 我蚌住了
 
 于是，查了半天，发现了这个：
-![alt text](image.png)
+![alt text](assets/image.png)
 
 于是，我根据它的路径来到`D:\Program Files (x86)\SogouInput\Components`
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 可以看到，这是搜狗的组 **(流)** 件 **(氓)** 库 **(窝)**
 
@@ -30,7 +30,7 @@ Win + R 键入`gpedit.msc` 回车
 
 拒绝 + 路径（就是刚刚的路径） + 无例外
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 完了再怎么点`Components`里面的exe都没有一点反应，进入搜狗也打不开它的那些流氓功能——至此完美解决！
 
@@ -43,3 +43,9 @@ Win + R 键入`gpedit.msc` 回车
 _关于爆发后的解决方法_
 
 最佳解决方案其实是卸载 然后使用微软输入法或者雾凇拼音。
+
+---
+>[!NOTE]
+> 2026-06-29
+
+目前Windows在用小狼毫+雾凇拼音；Android用Fcitx5+雾凇，都是双拼，爽！

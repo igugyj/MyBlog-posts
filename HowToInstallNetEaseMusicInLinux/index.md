@@ -18,11 +18,11 @@ draft: false
 
 打开：
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 然后搜索：wine ，并选择Debian包
 
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 分别安装**前三个**（从左往右）
 
@@ -34,15 +34,15 @@ draft: false
 
 得到安装包：
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 打开**Q4Wine**，点击File，点击Run
 
-![alt text](image-3.png)
+![alt text](assets/image-3.png)
 
 选择安装包，size自定义：
 
-![alt text](image-4.png)
+![alt text](assets/image-4.png)
 
 点击ok运行
 
@@ -50,7 +50,7 @@ draft: false
 
 我把它放到了~/Application/CloudMusic
 
-![alt text](image-5.png)
+![alt text](assets/image-5.png)
 
 当安装程序运行结束后就安装好了
 
@@ -58,8 +58,8 @@ draft: false
 
 同上，选择主程序然后在wine中运行它，运行成功后记得更改网易云的配置，**特别是下载和缓存项**
 
-![alt text](image-5.png)
+![alt text](assets/image-5.png)
 
 ## Enjoy
 
-![alt text](image-6.png)
+![alt text](assets/image-6.png)

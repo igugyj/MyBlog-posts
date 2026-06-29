@@ -313,4 +313,4 @@ mp.play(full, bpm=100, wait=True, save_as_file=False)
 
 [《银河与星斗简谱》](https://www.aitanqin.com/jianpu/3a28599b0c.html)
 
-[《\[日\]だんご大家族简谱》](https://www.aitanqin.com/jianpu/3a48344b0c.html)
+[《[日]だんご大家族简谱》](https://www.aitanqin.com/jianpu/3a48344b0c.html)

@@ -224,7 +224,7 @@ GitHub的仓库用这个最快：
 > [!NOTE]
 > 渲染有bug，自行调试
 
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 ```html collapse={1-999}
 <!DOCTYPE html>
@@ -368,7 +368,7 @@ GitHub的仓库用这个最快：
 > [!NOTE]
 > 渲染有bug，自行调试
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 ```html collapse={1-999}
 <!DOCTYPE html>

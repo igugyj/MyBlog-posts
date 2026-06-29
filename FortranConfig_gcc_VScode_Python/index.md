@@ -29,7 +29,7 @@ draft: false
 
 <https://code.visualstudio.com/>
 
-![](image.png)
+![](assets/image.png)
 
 ## 下载Python
 
@@ -37,33 +37,33 @@ draft: false
 
 为64位 Windows 系统下载 python 安装包
 
-![](image-1.png)
+![](assets/image-1.png)
 
-![](image-2.png)
+![](assets/image-2.png)
 
-![](image-3.png)
+![](assets/image-3.png)
 
 ## 下载gcc
 
 ### 为什么要下载gcc
 
-![](image-4.png)
+![](assets/image-4.png)
 
 ### 如何下载
 
 <http://www.equation.com/servlet/equation.cmd?fa=fortran>
 
-![](image-5.png)
+![](assets/image-5.png)
 
 # 安装
 
 先装哪个无所谓，但**不要同时安装**
 
-![](image-6.png)
+![](assets/image-6.png)
 
 ## 安装Python
 
-![](image-7.png)
+![](assets/image-7.png)
 
 ![](image-8.png)
 
@@ -244,14 +244,16 @@ pip install fortran-language-server
 
 至此，配置完成，有谬误请 **（1）在评论区反馈** 或者 **（2）私信我**。
 
-希望我的成果配得上您的一个赞
+~~希望我的成果配得上您的一个赞~~
 
 ![](image-29.png)
+
+> 壁纸：<https://steamcommunity.com/sharedfiles/filedetails/?id=3287715210>
 
 注意，我不是第一个写这种教程的人，如有雷同，纯属巧合，如有侵权，联系删除
 
 # 参考了以下文章或视频
 
-<https://blog.csdn.net/m0_63523451/article/details/128049541>
-
-<https://www.bilibili.com/video/BV195411c71L>
+> + <https://blog.csdn.net/m0_63523451/article/details/128049541>
+>
+> + <https://www.bilibili.com/video/BV195411c71L>

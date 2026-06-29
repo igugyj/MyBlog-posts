@@ -15,14 +15,13 @@ draft: false
 
 ### 表格说明
 
-- **来源**：`便携版` 表示来自便携软件存档（dir.txt），`已安装` 表示系统已安装（Report.csv），两者均有则标注两者
+- **来源**：`便携版` 表示来自便携软件存档（dir.txt），`已安装` 表示系统已安装（Report.csv），两者均有则标注两者，`self`为自己开发的小工具，一般情况你可能找不到。
 - 已排除底层依赖（VC++ 运行库、.NET 运行时、驱动程序、SDK、Windows 更新等）
 
 | 软件名称                            | 来源   | 用途                                  |
 | ----------------------------------- | ------ | ------------------------------------- |
 | 7-Zip                               | 已安装 | 开源压缩解压工具                      |
 | ABDownloadManager                   | 便携版 | 下载管理器                            |
-| ACLib                               | 便携版 | AutoCAD 相关库/工具                   |
 | ActivateWindows                     | 便携版 | Windows 激活工具                      |
 | ActivityWatch                       | 已安装 | 时间追踪/使用行为分析                 |
 | AdGuard                             | 已安装 | 广告拦截/隐私保护软件                 |
@@ -37,8 +36,8 @@ draft: false
 | BleachBit-Portable                  | 便携版 | 系统清理工具                          |
 | Blender                             | 已安装 | 3D 建模/动画/渲染软件                 |
 | BowPad                              | 便携版 | 标签式文本编辑器                      |
-| Bussin GriddyCode                   | 便携版 | 代码辅助工具                          |
-| byerun                              | 便携版 | 快捷启动工具                          |
+| Bussin GriddyCode                   | 便携版 | 似乎是个编辑器游戏，由Godot开发       |
+| byerun                              | 便携版 | bye unirun                            |
 | CapsWriter-Offline                  | 便携版 | 离线语音输入工具                      |
 | chattts / win-ChatTTS-ui            | 便携版 | 语音合成（TTS）工具                   |
 | Cheat Engine                        | 已安装 | 内存修改/游戏作弊工具                 |
@@ -46,8 +45,8 @@ draft: false
 | ClickShow                           | 便携版 | 鼠标点击屏幕特效显示                  |
 | Clink                               | 已安装 | CMD 增强工具（支持自动补全等）        |
 | CLion                               | 已安装 | JetBrains C/C++ IDE                   |
-| CompareClean                        | 便携版 | 文件比较与清理工具                    |
-| DesktopNote                         | 便携版 | 桌面便签工具                          |
+| CompareClean                        | 便携版 | 文件比较与清理工具`self`              |
+| DesktopNote                         | 便携版 | 桌面便签工具`self`                    |
 | Ditto                               | 已安装 | 剪贴板历史管理工具                    |
 | Docker Desktop                      | 已安装 | 容器化开发平台                        |
 | Driver Booster                      | 已安装 | 驱动更新工具                          |
@@ -56,7 +55,7 @@ draft: false
 | eSpeak NG                           | 已安装 | 文字转语音（TTS）引擎                 |
 | Everything                          | 已安装 | 极速文件搜索工具                      |
 | ExplorerPatcher                     | 便携版 | Windows 资源管理器增强/开始菜单修改   |
-| FetchJWC                            | 便携版 | 教务系统相关工具                      |
+| FetchJWC                            | 便携版 | 教务系统相关工具`self`                |
 | ffmpeg                              | 便携版 | 音视频编解码/转码命令行工具           |
 | File Converter                      | 已安装 | 右键菜单文件格式转换                  |
 | FileZilla                           | 已安装 | FTP/SFTP 客户端                       |
@@ -72,7 +71,7 @@ draft: false
 | Gopeed                              | 便携版 | 高速下载工具（支持 BT/磁力等）        |
 | HDTunePro                           | 便携版 | 硬盘检测/健康状态查看工具             |
 | HiBitUninstaller                    | 便携版 | 软件卸载工具                          |
-| IconChanger                         | 便携版 | 图标更改工具                          |
+| IconChanger                         | 便携版 | 图标更改工具`self`                    |
 | ImageGlass                          | 便携版 | 轻量图片查看器                        |
 | ImageMagick                         | 已安装 | 命令行图像处理工具                    |
 | Inno Setup                          | 已安装 | Windows 安装包制作工具                |
@@ -89,19 +88,18 @@ draft: false
 | LANDrop                             | 已安装 | 局域网跨平台文件传输                  |
 | Launch4j                            | 已安装 | Java JAR 转 EXE 工具                  |
 | LAV Filters                         | 已安装 | DirectShow 音视频解码器               |
-| lifetime                            | 便携版 | 待确认的便携工具                      |
 | LiteMonitor                         | 便携版 | 显示器亮度/设置管理                   |
 | LocalSend                           | 便携版 | 局域网文件传输                        |
 | LunaTranslator                      | 便携版 | GalGame/视觉小说翻译工具              |
 | lx-music-desktop                    | 便携版 | 第三方音乐播放器（洛雪音乐）          |
-| lx_console_lyrics / lx_lyrics       | 便携版 | 歌词显示工具                          |
-| MateEngineX / MateEngine            | 便携版 | 匹配/配对引擎工具                     |
-| mazanoke                            | 便携版 | 工具类软件                            |
+| lx_console_lyrics / lx_lyrics       | 便携版 | 歌词显示工具`self`                    |
+| MateEngineX / MateEngine            | 便携版 | VRM桌宠                               |
+| mazanoke                            | 便携版 | ~~工具类软件~~                        |
 | Mechvibes                           | 已安装 | 机械键盘音效模拟                      |
 | Microsoft Office LTSC 2021          | 已安装 | Office 办公套件                       |
-| MikuMikuDance                       | 便携版 | 3D 动画制作（Vocaloid 相关）          |
+| MikuMikuDance                       | 便携版 | 3D 动画制作（MMD 相关）               |
 | Motrix                              | 便携版 | 全协议下载工具                        |
-| MToolBox                            | 便携版 | 多功能工具箱                          |
+| MToolBox                            | 便携版 | 多功能美化工具箱                      |
 | MyComputerManager                   | 便携版 | 我的电脑管理增强工具                  |
 | NAPS2                               | 已安装 | 扫描工具（支持多品牌扫描仪）          |
 | NapCat                              | 便携版 | QQ 机器人框架                         |
@@ -117,15 +115,13 @@ draft: false
 | pandoc                              | 便携版 | 文档格式转换工具                      |
 | PawnIO                              | 已安装 | Windows 输入输出工具                  |
 | PDF-XChange Editor                  | 便携版 | PDF 阅读/编辑工具                     |
-| Pelr                                | 便携版 | 工具类软件                            |
-| PetWin                              | 便携版 | 窗口管理工具                          |
+| Pelr                                | 便携版 | live2d桌宠`self`                      |
 | PiliPlus-Win                        | 便携版 | 直播/视频流工具                       |
 | PixiEditor                          | 便携版 | 像素画编辑器                          |
 | PixPin                              | 已安装 | 截图/贴图/录屏工具                    |
 | pot                                 | 已安装 | 翻译工具                              |
 | PowerShell 7                        | 已安装 | 跨平台 Shell                          |
 | PowerToys                           | 已安装 | 微软官方 Windows 增强工具集           |
-| PPR                                 | 便携版 | 屏幕录制工具                          |
 | Prince                              | 已安装 | HTML/XML 转 PDF 工具                  |
 | PyCharm                             | 已安装 | JetBrains Python IDE                  |
 | PyQt-Fluent-Widgets-Pro-Gallery     | 便携版 | PyQt 现代化 UI 组件库示例             |
@@ -135,12 +131,12 @@ draft: false
 | QuickLook                           | 已安装 | 空格键快速预览文件                    |
 | QuickTray                           | 便携版 | 系统托盘管理工具                      |
 | R for Windows                       | 已安装 | R 语言统计计算环境                    |
-| RDSentence                          | 便携版 | 句子识别/处理工具                     |
+| RDSentence                          | 便携版 | 桌面美句显示`self`                    |
 | Realtek Audio Driver                | 已安装 | 瑞昱高清晰音频驱动                    |
 | renpy                               | 便携版 | 视觉小说游戏引擎                      |
 | RePKG                               | 便携版 | Wallpaper Engine 资源包解析工具       |
 | RevoUninstaller                     | 便携版 | 强力卸载工具                          |
-| Rotating Rhythm                     | 便携版 | 节奏游戏                              |
+| Rotating Rhythm                     | 便携版 | 旋转的图标`self`                      |
 | RStudio                             | 已安装 | R 语言 IDE                            |
 | RustDesk                            | 已安装 | 开源远程桌面工具                      |
 | Sandboxie-Plus                      | 已安装 | 沙盒隔离运行软件                      |
@@ -153,14 +149,14 @@ draft: false
 | starship                            | 已安装 | Shell 提示符美化工具                  |
 | Starward                            | 便携版 | 米哈游游戏启动器替代                  |
 | Steam                               | 已安装 | 游戏平台                              |
-| StickersManager                     | 便携版 | 贴纸管理工具                          |
+| StickersManager                     | 便携版 | 贴纸管理工具`self`                    |
 | stickies                            | 便携版 | 桌面便签工具                          |
 | SwitchHosts                         | 便携版 | hosts 文件切换管理                    |
 | systeminformer                      | 便携版 | 系统进程/信息查看工具                 |
 | Tablacus Explorer                   | 便携版 | 标签式资源管理器                      |
 | TaskExplorer                        | 便携版 | 任务管理器替代                        |
 | TCPView                             | 便携版 | 网络连接查看工具                      |
-| time30                              | 便携版 | 定时提醒/番茄钟工具                   |
+| time30                              | 便携版 | 30小时制的桌面时钟`self`              |
 | Touhou Project Mod                  | 便携版 | 东方 Project MOD                      |
 | TrafficMonitor                      | 便携版 | 网速/流量悬浮窗监控                   |
 | Trae CN                             | 已安装 | 字节跳动 AI 编程助手                  |
@@ -181,7 +177,7 @@ draft: false
 | wiztree                             | 便携版 | 磁盘空间分析工具                      |
 | WMonitor                            | 便携版 | 显示器管理工具                        |
 | yazi                                | 便携版 | 终端文件管理器                        |
-| yoMMD                               | 便携版 | MMD 相关工具                          |
+| yoMMD                               | 便携版 | MMD 桌宠                              |
 | 小狼毫输入法                        | 已安装 | 开源中文输入法（Rime）                |
 | 网易云音乐                          | 已安装 | 音乐播放器                            |
 | 米哈游启动器                        | 已安装 | 米哈游游戏启动器                      |
