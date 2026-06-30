@@ -596,7 +596,9 @@ if __name__ == '__main__':
     sys.exit(app.exec())
 ```
 
-## Cover Information
+---
+<details>
+<summary>封面版权</summary>
 
 ```txt
  ASJC 最も人気のあるの日本語曲《I Miss You》がリリースされ、
@@ -616,3 +618,5 @@ Amazon : https://music.amazon.co.uk/albums/B0DDRND9ZW?marketplaceId=A1F83G8C2ARO
 
 「ASJC is available now on Spotify、Amazon Music、Apple Music、Youtube Music、KKBOX 」
 ```
+
+</details>

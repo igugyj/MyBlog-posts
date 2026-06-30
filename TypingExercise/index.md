@@ -3,7 +3,7 @@ title: TypingExercise
 published: 2025-07-24
 description: "基于Python的打字练习程序"
 image: "assets/image-3.png"
-tags: ["Python"]
+tags: ["Python","ZRM","Windows"]
 category: Python
 draft: false
 ---

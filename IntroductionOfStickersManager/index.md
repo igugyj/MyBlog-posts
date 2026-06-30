@@ -3,7 +3,7 @@ title: StickersManager介绍
 published: 2025-12-22
 description: "用AI写了个Sticker Manager，管理PC端表情包"
 image: "assets/image-3.png"
-tags: ["Sticker", "Windows", "Python", "AI"]
+tags: ["Stickers", "Windows", "Python", "AI"]
 category: Note
 draft: false
 player:
@@ -20,7 +20,7 @@ player:
 
 ## 前言
 
-<a href="../shortcutOfEmojiFolder" class="pjax-link">上回</a>我们说到用脚本来满足快速打开 emo 文件夹的方法。
+上回（[打开EMO文件夹的快捷方式](../shortcutOfEmojiFolder/)）我们说到用脚本来满足快速打开 emo 文件夹的方法。
 
 但是，人是懒的，我不想每次都在文件夹里面找表情，于是，我用 AI 写了一个 Sticker Manager。
 
@@ -44,8 +44,18 @@ code = Claude.AI.Chat(req.md)
 
 [![igugyj/EMO - GitHub](https://gh-card.dev/repos/igugyj/EMO.svg?fullname=)](https://github.com/igugyj/EMO)
 
+archived:
 [![igugyj/StickersManager - GitHub](https://gh-card.dev/repos/igugyj/StickersManager.svg?fullname=)](https://github.com/igugyj/StickersManager)
 
 ---
 
 多的不说了，查文档就可以了，有问题提 Issue，或者直接 PR。
+
+---
+
+> 2026-07-01
+
+C++ Qt6:
+[![igugyj/StickersManager2 - GitHub](https://gh-card.dev/repos/igugyj/StickersManager2.svg?fullname=)](https://github.com/igugyj/StickersManager2)
+
+---

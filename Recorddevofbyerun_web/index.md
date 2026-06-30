@@ -92,7 +92,7 @@ server: {
 
 我想把这个网页打包到 Android，让小白也能随时随地用这个工具。
 
-环境我是有的（大概。我想，这么顺利的话不要太过分啊，也这么希冀这，吃瘪了。
+环境我是有的（大概。我想，这么顺利的话不要太过分啊，也这么希冀着，吃瘪了。
 
 按照 AI 的步骤，我建立了项目，看着满页的红条，我是有那么点崩溃的；build 完后也是一页页的 error，我是真的难受；突破万难，debug 是点开 app 时，只是一页白——我人是萎的。
 
@@ -114,3 +114,29 @@ server: {
 3CT 的也不错，不知道路线是否已经像人类了。
 
 写完这篇，我平静了许多，该上号了。
+
+---
+
+> [!NOTE]
+> 2026-07-01
+
+由于目标应用的相关接口改变，原作者停止了项目。
+
+目前比较热门的后继者：
+
+[![Alore111/unirun-web - GitHub](https://gh-card.dev/repos/Alore111/unirun-web.svg?fullname=)](https://github.com/Alore111/unirun-web)
+
+另一个不同分支：
+[![bloudhood/freerun - GitHub](https://gh-card.dev/repos/bloudhood/freerun.svg?fullname=)](https://github.com/bloudhood/freerun)
+
+---
+
+我从0用AI构建的项目：
+
+Windows：
+[![igugyj/PaceTrace - GitHub](https://gh-card.dev/repos/igugyj/PaceTrace.svg?fullname=)](https://github.com/igugyj/PaceTrace)
+
+Android：
+[![igugyj/PaceTraceKotlin - GitHub](https://gh-card.dev/repos/igugyj/PaceTraceKotlin.svg?fullname=)](https://github.com/igugyj/PaceTraceKotlin)
+
+---

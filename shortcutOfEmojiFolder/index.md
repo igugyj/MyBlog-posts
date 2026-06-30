@@ -3,7 +3,7 @@ title: 打开EMO文件夹的快捷方式
 published: 2025-12-20
 description: "使用Win+R或autohotkey定义快捷键打开EMO文件夹"
 image: "assets/image.png"
-tags: ["Windows", "Autohotkey"]
+tags: ["Windows", "Autohotkey","Stickers"]
 category: Note
 draft: false
 ---
@@ -52,5 +52,11 @@ return
 按`Ctrl + Shift + E`，EMO 文件夹打开：
 
 ![alt text](assets/PixPin_2025-12-20_19-06-36.gif)
+
+---
+
+> 2026-07-01
+
+[StickersManager介绍](../IntroductionOfStickersManager/)
 
 ---

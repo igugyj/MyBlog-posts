@@ -10,9 +10,9 @@ draft: false
 
 <!-- <script defer src="https://cloud.umami.is/script.js" data-website-id="ab57980a-7f02-43fe-ac2a-b0d8613d4217"></script> -->
 
-# 简单说明
+## 简单说明
 
-看了 [男人的乐趣：在已激活 Windows 上强行显示「未激活」状态](https://www.bilibili.com/video/BV1X6PLevEJL/)，然后用了一下，发现与小红车不兼容。觉得可以忍，可以用live2DExViewer平替一下，na，今天开机速读变慢，平时CPU占用变高，于是觉得还是得自己动手。之前也找过[MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux)，这个又不能隐藏终端，麻了。
+看了 [男人的乐趣：在已激活 Windows 上强行显示「未激活」状态](https://www.bilibili.com/video/BV1X6PLevEJL/)，然后用了一下，发现与小红车不兼容。觉得可以忍，可以用live2DExViewer平替一下，na，今天度变慢，平时CPU占用变高，于是觉得还是得自己动手。之前也找过[MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux)，这个又不能隐藏终端，麻了。
 
 那就自己写，问问AI就 _抄_ 出来了，为了避免麻烦，我没有用tkinter（简陋得无与伦比），PyQt6（GUN协议），选择了PySide6（不知道有没有麻烦，有的话我就在GitHub上放一下源码）。na，看看效果：
 
@@ -20,11 +20,12 @@ draft: false
 
 有工具栏又有水印
 
-# 代码
+<details>
+<summary>Python代码</summary>
 
 ```Python
 
-# -*- coding: UTF-8 -*-
+# -_- coding: UTF-8 -_-
 
 """
 PROJECT_NAME Python_projects
@@ -77,7 +78,7 @@ def set_QWidget(window: QWidget):
                 """)
     # 设置文本
     label1.setText("Windows Hacked")
-    label2.setText("Go to http://127.0.0.1/ to pay the ransom.")
+    label2.setText("Go to <http://127.0.0.1/> to pay the ransom.")
     # 启用透明度
     window.setAttribute(Qt.WidgetAttribute.WA_TranslucentBackground, True)
     # 窗口顶置，去标题栏，去除任务栏图标
@@ -102,7 +103,7 @@ class Tray:
             with open("setting.json", "w", encoding="utf-8") as file:
                 json.dump([_format], file, indent=4, ensure_ascii=False)
         os.startfile("setting.json")
-    
+
     @staticmethod
     def readSetting():
         if os.path.exists("setting.json"):
@@ -114,7 +115,7 @@ class Tray:
                 return []
         else:
             return []
-    
+
     def openTarget(self, p: str):
         print(p)
         try:
@@ -124,7 +125,7 @@ class Tray:
                 webbrowser.open(p)
         except Exception:
             self.tray_icon.showMessage("Error", "未能打开 {}".format(p))
-    
+
     def _addActions(self):
         menu = QMenu()
         # 设定基本动作
@@ -170,7 +171,7 @@ class Tray:
                     action.triggered.connect(lambda checked, p=c: self.openTarget(p))
                 if d:
                     action.setIcon(QIcon(d))
-    
+
                 if a == "star":
                     action.setParent(menu_star)
                     menu_star.addAction(action)
@@ -184,7 +185,7 @@ class Tray:
                     action.setParent(menu_scripts)
                     menu_scripts.addAction(action)
         self.tray_icon.setContextMenu(menu)
-    
+
     def set_tray(self):
         self.tray_icon.setToolTip("QkStart With WaterMark")
         self.tray_icon.setIcon(QIcon("assets/snowflake.png"))
@@ -199,8 +200,13 @@ if __name__ == '__main__':
 
 ```
 
-
-
+</details>
 ___
 
 闲的……
+
+---
+
+## 我的开源项目
+
+<https://gitee.com/Pfolg/ActivateWindows>
