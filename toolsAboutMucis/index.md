@@ -10,8 +10,8 @@ draft: false
 
 - FFmpeg 丰碑
 - [AIMP](https://aimp.ru/)，LGPLv2.1，歌词嵌入，封面嵌入
-- [Audacity](https://www.audacityteam.org/)，人肉生成字幕辅助工具
-  > 似乎是，久了没用，忘了
+- [Audacity](https://www.audacityteam.org/) 音频编辑工具
+- Subtitle Edit，人肉生成字幕辅助工具
 - VLC 媒体转录
 - [lxmusic](https://github.com/guoyue2010/lxmusic-) _听歌软件_
 - [AudioDecrypt](https://github.com/0x77fe/AudioDecrypt) 解码网易云(NCM),酷狗音乐(KGMA/KGM/KGG)私有格式的自用小工具
