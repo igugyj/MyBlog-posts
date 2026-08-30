@@ -8,6 +8,7 @@ tags:
   - Anime
   - Bilibili
   - Danmu
+  - ACG
 category: Note
 draft: false
 player:
@@ -19,7 +20,7 @@ player:
 ---
 ## 引子
 
-今天在看《某科学的超电磁炮》第19集时，全程都有弹幕在刷44100这个数字，以及少量的2333，对于老用户来说，这些应该不陌生，一眼就能看出是什么意思。但是像我这种接触互联网比较晚的，这些数字可能就是“天书”，不知其含义——“一米瓦嘎奈”（何意味）。
+今天在看《某科学的超电磁炮》第19集时，全程都有弹幕在刷`44100`这个数字，以及少量的`2333`，对于老用户来说，这些应该不陌生，一眼就能看出是什么意思。但是像我这种接触互联网比较晚的，这些数字可能就是“天书”，不知其含义——“一米瓦嘎奈”（何意味）。
 
 ![](assets/f6c2c759e034107c9876084b42cce0b8.jpg)
 
@@ -145,6 +146,12 @@ player:
 
 就很gay。
 
+### 486和6154
+
+`486`一般是`昴`在日语里的发音？总之，如果弹幕中有`486`，可能是指视频中的某个角色，如《Re：从零开始的异世界生活》男主。
+
+`6154`大概是`尤利乌斯`，也是《Re：从零开始的异世界生活》中的角色。
+
 ---
 
 ## 数字梗和av号
@@ -156,6 +163,14 @@ player:
 实在搜不到的可以问问那些老资历。
 
 ![](assets/ccc.jpg)
+
+### 其他
+
+如67什么的其他数字梗可以自己查找，感兴趣的可以自己了解。
+
+另外，恶俗梗请不要乱用，用梗得分清场合，合理使用可以活跃气氛，用坏了则可能破坏对话，引起他人厌恶。
+
+似乎梗和歇后语差不多吧，也是语言的压缩包（
 
 ---
 
@@ -174,7 +189,7 @@ player:
 - [BV1xx411c79H](https://www.bilibili.com/video/BV1xx411c79H/) 【東方】Bad Apple!! ＰＶ【影絵】
 - [BV1ic411D7xo](https://www.bilibili.com/video/BV1ic411D7xo/) 《云·原神》动画短片——第二篇 「欸 云朵」
 - [BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7/) 年年考，年年错
-- [BV1it4y1q7a9](https://www.bilibili.com/video/BV1it4y1q7a9/) 老哥，你坐啊 15   JUNE   PM   04：04
+- [BV1it4y1q7a9](https://www.bilibili.com/video/BV1it4y1q7a9/) 老哥，你坐啊 `15   JUNE   PM   04：04`
 
 ---
 
@@ -209,13 +224,13 @@ B站的国际化是一个持续多年的过程，通常被划分为几个关键�
 ![](assets/file_20260830103444023.png)
 
 [![](assets/file_20260830103924815.png)](https://www.bilibili.com/video/BV1Eq8R6hEq4)
--- https://www.bilibili.com/video/BV1Eq8R6hEq4
+-- <https://www.bilibili.com/video/BV1Eq8R6hEq4>
 [![](assets/file_20260830104050451.png)](https://www.bilibili.com/video/BV11TtF61EuR)
--- https://www.bilibili.com/video/BV11TtF61EuR
+-- <https://www.bilibili.com/video/BV11TtF61EuR>
 
 ---
 结尾，我以后可能会在自己的资源里面加一点这些内容……
 
 对了，`电脑配件`这个梗源自《某科学的超电磁炮》，意思可自行搜索。
 
-[「我都干了些什么…」](https://www.bilibili.com/video/BV1dyXqBaEE5)
+[「我都干了些什么…」](https://www.bilibili.com/video/BV1dyXqBaEE5/?t=3)
