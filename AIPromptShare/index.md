@@ -76,3 +76,11 @@ vibe coding靠感觉驱动，开发者丢模糊意图让AI揣测，自己退到�
 </div>
 
 > 我并没有用龙虾，单纯觉得有个对话框配色好看就复刻了一下。
+
+## 2026-09-06 更新
+
+[![igugyj/project-ai-docs - GitHub](https://gh-card.dev/repos/igugyj/project-ai-docs.svg?fullname=)](https://github.com/igugyj/project-ai-docs)
+
+我把它做成了一个skill，用来管理项目AI文档，土方子有土方子的用法。
+
+社区里还有专门用什么"矢量数据"来记录上下文的，感觉那个更厉害，但是门槛也不低。
