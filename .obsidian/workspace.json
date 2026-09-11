@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "f67b4ca66df440f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "82259b357b2ee2cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "215091147980b489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aboutNumberDanmuAndLinkReviewInBilibili/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65c9d34309affbb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4ebf639317074e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "078c38cd5046f48a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4cbbf7822d641e91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "329048ffe8596216",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b49622e1c1282dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43dd74c45b99d5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "321f5f8ecaf1e115",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HowToResetAndroidAPP/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "index 的反向链接列表"
+            }
+          },
+          {
+            "id": "21237f5163a71d54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HowToResetAndroidAPP/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的出链列表"
+            }
+          },
+          {
+            "id": "9551b53109489b18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f058890885e2b5fa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5ef5c93dbab83f80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HowToResetAndroidAPP/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "index 的大纲"
+            }
+          },
+          {
+            "id": "948dfb64da2f7d8c",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "215091147980b489",
+  "lastOpenFiles": [
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets/image.jpeg",
+    "aboutNumberDanmuAndLinkReviewInBilibili/index.md",
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets/file_20260830104050451.png",
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets/file_20260830103924815.png",
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets/file_20260830103444023.png",
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets/ccc.jpg",
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets/file_20260830094932765.png",
+    "aboutNumberDanmuAndLinkReviewInBilibili/a.html",
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets/file_20260830093724096.png",
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets/file_20260830092728769.png",
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets/file_20260830092506067.png",
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets/e321d4802f3d49eb939f38387f2b2ebe.jpg",
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets",
+    "AboutNetworkOfGitHub/index.md",
+    "aboutNumberDanmuAndLinkReviewInBilibili/assets/index",
+    "assets/index",
+    "assets",
+    "FortranConfig_gcc_VScode_Python/index.md",
+    "2025_download_Qt5_for_Visual_Studio/index.md",
+    "RIMEConfigNote/index.md",
+    "ZRMExerciseTool/index.md",
+    "30HourSystem/index.md",
+    "GitSshConfig/index.md",
+    "HowToInstallNetEaseMusicInLinux/assets",
+    "HowToBanInputMethodSoGou/index.md",
+    "HowToBanInputMethodSoGou/assets",
+    "UseAExcellentPdfEditorOnLinux/index.md",
+    "useHtmlDIYbrwMainPage/index.md",
+    "UseAExcellentPdfEditorOnLinux/assets",
+    "useHtmlDIYbrwMainPage/assets",
+    "GitHubProjectGitHub520/index.md",
+    "HowToResetAndroidAPP/index.md",
+    "UseUnusuallWayToSolveUbuntuNoWiFi/index.md",
+    "UseUnusuallWayToSolveUbuntuNoWiFi/assets",
+    "未命名.md",
+    "2026-02-17thinking/index.md",
+    "20250903SimpleRecord/index.md",
+    "DIYLinkCard/index.md",
+    "CppDelPtr/index.md"
+  ]
+}
