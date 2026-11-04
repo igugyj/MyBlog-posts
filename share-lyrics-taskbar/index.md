@@ -16,7 +16,7 @@ draft: false
 
 我（用AI）开发了这个插件：
 
-[![igugyj/TrafficMonitorLyricPlugin - GitHub](https://gh-card.dev/repos/igugyj/TrafficMonitorLyricPlugin.svg?fullname=)](https://github.com/igugyj/TrafficMonitorLyricPlugin)
+[igugyj/TrafficMonitorLyricPlugin - GitHub](https://github.com/igugyj/TrafficMonitorLyricPlugin)
 
 目前问题比较多，但我是将就用，哪天有精力和技术了再来打磨。
 
@@ -36,7 +36,7 @@ draft: false
 
 其实也不是突然想到开发一个这样的插件，主要是在GitHub上关注了一个朋友，看到他开发了一个TrafficMonitor的插件：
 
-[![Jursin/TrafficMonitorPlugin_AIBalance - GitHub](https://gh-card.dev/repos/Jursin/TrafficMonitorPlugin_AIBalance.svg?fullname=)](https://github.com/Jursin/TrafficMonitorPlugin_AIBalance)
+[Jursin/TrafficMonitorPlugin_AIBalance - GitHub](https://github.com/Jursin/TrafficMonitorPlugin_AIBalance)
 
 我就想啊：他能做到，为何我不能做一个？于是就A出来了一个简陋的插件。
 

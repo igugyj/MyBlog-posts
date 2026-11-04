@@ -25,7 +25,7 @@ draft: false
 
 [Vivia Preview](https://saicaca.github.io/vivia-preview/)
 
-[![saicaca/hexo-theme-vivia - GitHub](https://gh-card.dev/repos/saicaca/hexo-theme-vivia.svg)](https://github.com/saicaca/hexo-theme-vivia)
+[saicaca/hexo-theme-vivia - GitHub](https://github.com/saicaca/hexo-theme-vivia)
 
 <div style="color:red;">这能不入？这必须入啊！</div>
 
@@ -35,7 +35,7 @@ draft: false
 
 然后就跳转到下面的那个链接了。
 
-[![saicaca/fuwari - GitHub](https://gh-card.dev/repos/saicaca/fuwari.svg)](https://github.com/saicaca/fuwari)
+[saicaca/fuwari - GitHub](https://github.com/saicaca/fuwari)
 
 接着，咱们的配置开始了。
 
@@ -107,7 +107,7 @@ git version 2.48.1.windows.1
 
 点击此链接进入saicaca/fuwari仓库：
 
-[![saicaca/fuwari - GitHub](https://gh-card.dev/repos/saicaca/fuwari.svg)](https://github.com/saicaca/fuwari)
+[saicaca/fuwari - GitHub](https://github.com/saicaca/fuwari)
 
 ---
 

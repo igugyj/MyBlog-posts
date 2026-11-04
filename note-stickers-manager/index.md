@@ -42,10 +42,10 @@ code = Claude.AI.Chat(req.md)
 
 ## 链接
 
-[![igugyj/EMO - GitHub](https://gh-card.dev/repos/igugyj/EMO.svg?fullname=)](https://github.com/igugyj/EMO)
+[igugyj/EMO - GitHub](https://github.com/igugyj/EMO)
 
 archived:
-[![igugyj/StickersManager - GitHub](https://gh-card.dev/repos/igugyj/StickersManager.svg?fullname=)](https://github.com/igugyj/StickersManager)
+[igugyj/StickersManager - GitHub](https://github.com/igugyj/StickersManager)
 
 ---
 
@@ -56,6 +56,6 @@ archived:
 > 2026-07-01
 
 C++ Qt6:
-[![igugyj/StickersManager2 - GitHub](https://gh-card.dev/repos/igugyj/StickersManager2.svg?fullname=)](https://github.com/igugyj/StickersManager2)
+[igugyj/StickersManager2 - GitHub](https://github.com/igugyj/StickersManager2)
 
 ---

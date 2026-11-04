@@ -13,7 +13,7 @@ draft: false
 
 ## 关于
 
-[![yanyaoli/byerun-web - GitHub](https://gh-card.dev/repos/yanyaoli/byerun-web.svg)](https://github.com/yanyaoli/byerun-web)
+[yanyaoli/byerun-web - GitHub](https://github.com/yanyaoli/byerun-web)
 
 我把这位大佬的网页应用克隆到本地，简单研究了一下。但是我没什么技术，不敢改太多，核心代码我是一点没动，也不知道在哪（嘿嘿
 
@@ -22,7 +22,7 @@ draft: false
 目前 byerun 功能确实丰富，但是，它毕竟是部署到非大陆网络中的，访问起来很麻烦。
 
 大佬的另一个这方面的应用已经暂停更新了：
-[![yanyaoli/byerun - GitHub](https://gh-card.dev/repos/yanyaoli/byerun.svg)](https://github.com/yanyaoli/byerun)
+[yanyaoli/byerun - GitHub](https://github.com/yanyaoli/byerun)
 但是能用。
 
 ## 我的尝试
@@ -104,12 +104,12 @@ server: {
 
 结果上我只打包了 Windows 的版本，Android 算是彻底失败了，不过不用灰心，我大概是学到了什么吧
 
-[![igugyj/byerun - GitHub](https://gh-card.dev/repos/igugyj/byerun.svg?fullname=)](https://github.com/igugyj/byerun)
+[igugyj/byerun - GitHub](https://github.com/igugyj/byerun)
 
 ![Release](assets/image-2.png)
 
 说白了，用我的还不如用大佬以前做的：
-[![yanyaoli/byerun - GitHub](https://gh-card.dev/repos/yanyaoli/byerun.svg)](https://github.com/yanyaoli/byerun)
+[yanyaoli/byerun - GitHub](https://github.com/yanyaoli/byerun)
 
 3CT 的也不错，不知道路线是否已经像人类了。
 
@@ -124,19 +124,19 @@ server: {
 
 目前比较热门的后继者：
 
-[![Alore111/unirun-web - GitHub](https://gh-card.dev/repos/Alore111/unirun-web.svg?fullname=)](https://github.com/Alore111/unirun-web)
+[Alore111/unirun-web - GitHub](https://github.com/Alore111/unirun-web)
 
 另一个不同分支：
-[![bloudhood/freerun - GitHub](https://gh-card.dev/repos/bloudhood/freerun.svg?fullname=)](https://github.com/bloudhood/freerun)
+[bloudhood/freerun - GitHub](https://github.com/bloudhood/freerun)
 
 ---
 
 我从0用AI构建的项目：
 
 Windows：
-[![igugyj/PaceTrace - GitHub](https://gh-card.dev/repos/igugyj/PaceTrace.svg?fullname=)](https://github.com/igugyj/PaceTrace)
+[igugyj/PaceTrace - GitHub](https://github.com/igugyj/PaceTrace)
 
 Android：
-[![igugyj/PaceTraceKotlin - GitHub](https://gh-card.dev/repos/igugyj/PaceTraceKotlin.svg?fullname=)](https://github.com/igugyj/PaceTraceKotlin)
+[igugyj/PaceTraceKotlin - GitHub](https://github.com/igugyj/PaceTraceKotlin)
 
 ---

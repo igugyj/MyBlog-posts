@@ -11,7 +11,7 @@ draft: false
 > [!CAUTION]
 > 不推荐那些不知道如何配置、不想学或者没有能力学的人使用。
 
-[![aj3423/SpamBlocker - GitHub](https://gh-card.dev/repos/aj3423/SpamBlocker.svg?fullname=)](https://github.com/aj3423/SpamBlocker)
+[aj3423/SpamBlocker - GitHub](https://github.com/aj3423/SpamBlocker)
 
 ## 引子
 

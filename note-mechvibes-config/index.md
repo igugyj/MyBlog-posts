@@ -29,9 +29,9 @@ draft: false
 
 <https://mechvibes.com/sound-packs/>
 
-[![hainguyents13/mechvibes - GitHub](https://gh-card.dev/repos/hainguyents13/mechvibes.svg?fullname=)](https://github.com/hainguyents13/mechvibes)
+[hainguyents13/mechvibes - GitHub](https://github.com/hainguyents13/mechvibes)
 
-[![hainguyents13/mechvibes-dx - GitHub](https://gh-card.dev/repos/hainguyents13/mechvibes-dx.svg?fullname=)](https://github.com/hainguyents13/mechvibes-dx)
+[hainguyents13/mechvibes-dx - GitHub](https://github.com/hainguyents13/mechvibes-dx)
 
 ---
 

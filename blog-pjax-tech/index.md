@@ -24,7 +24,7 @@ PJAX 是 **PushState + AJAX** 的黄金组合技术，堪称现代前端优化�
 
 ## 初识 PJAX 的奇妙之旅
 
-[![stevenjoezhang/live2d-widget - GitHub](https://gh-card.dev/repos/stevenjoezhang/live2d-widget.svg?fullname=)](https://github.com/stevenjoezhang/live2d-widget)
+[stevenjoezhang/live2d-widget - GitHub](https://github.com/stevenjoezhang/live2d-widget)
 
 前几天突发奇想，想给自己的小站添加一个可爱的 live2D 看板娘。实现过程倒是不难，但很快就发现了一个致命问题——每次切换页面时，看板娘都会重新加载模型！
 

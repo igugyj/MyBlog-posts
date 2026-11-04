@@ -79,7 +79,7 @@ vibe coding靠感觉驱动，开发者丢模糊意图让AI揣测，自己退到�
 
 ## 2026-09-06 更新
 
-[![igugyj/project-ai-docs - GitHub](https://gh-card.dev/repos/igugyj/project-ai-docs.svg?fullname=)](https://github.com/igugyj/project-ai-docs)
+[igugyj/project-ai-docs - GitHub](https://github.com/igugyj/project-ai-docs)
 
 我把它做成了一个skill，用来管理项目AI文档，土方子有土方子的用法。
 

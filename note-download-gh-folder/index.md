@@ -17,7 +17,7 @@ draft: false
 ![](assets/image.png)
 
 from:
-[![andream7/cuit_sharing - GitHub](https://gh-card.dev/repos/andream7/cuit_sharing.svg)](https://github.com/andream7/cuit_sharing)
+[andream7/cuit_sharing - GitHub](https://github.com/andream7/cuit_sharing)
 
 ## 实操一遍
 

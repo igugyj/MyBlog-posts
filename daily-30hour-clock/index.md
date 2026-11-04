@@ -54,7 +54,7 @@ $if(df(H)<6, df(yyyy/MM/dd, df(S)-86400), df(yyyy/MM/dd))$$tc(ord, if(df(H)<6, d
 
 ![alt text](assets/image-1.png)
 
-[![igugyj/time30 - GitHub](https://gh-card.dev/repos/igugyj/time30.svg?fullname=)](https://github.com/igugyj/time30)
+[igugyj/time30 - GitHub](https://github.com/igugyj/time30)
 
 这个仓库没有提供`release`。
 

@@ -53,7 +53,7 @@ data in .cache is just links and real files is in the root.
 
 ## MyKokoro
 
-[![igugyj/MyKokoro - GitHub](https://gh-card.dev/repos/igugyj/MyKokoro.png?fullname=)](https://github.com/igugyj/MyKokoro)
+[igugyj/MyKokoro - GitHub](https://github.com/igugyj/MyKokoro)
 
 ---
 

@@ -15,7 +15,7 @@ draft: false
 
 由于GitHub账户被标记，原来博客依赖的仓库无法访问，但是我的本地仓库还在，修修补补还能用。
 
-[![saicaca/fuwari - GitHub](https://gh-card.dev/repos/saicaca/fuwari.svg)](https://github.com/saicaca/fuwari)
+[saicaca/fuwari - GitHub](https://github.com/saicaca/fuwari)
 
 ## GitLab
 

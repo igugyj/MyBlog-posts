@@ -13,9 +13,9 @@ draft: false
 
 考虑到这个项目是 Chinese All 月榜上面的项目，我写在这估计也没什么用，但是放在这，如果有人（指还不知道这个项目的人）一不小心看到了，可以去尝试一下。
 
-[![521xueweihan/GitHub520 - GitHub](https://gh-card.dev/repos/521xueweihan/GitHub520.svg?fullname=)](https://github.com/521xueweihan/GitHub520)
+[521xueweihan/GitHub520 - GitHub](https://github.com/521xueweihan/GitHub520)
 
-[![oldj/SwitchHosts - GitHub](https://gh-card.dev/repos/oldj/SwitchHosts.svg?fullname=)](https://github.com/oldj/SwitchHosts)
+[oldj/SwitchHosts - GitHub](https://github.com/oldj/SwitchHosts)
 
 啊，也是过上好日子啊：
 ![alt text](assets/image.png)

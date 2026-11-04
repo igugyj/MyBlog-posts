@@ -21,19 +21,19 @@ _因为其他输入法不能满足需求或者**某些需求过剩**。_
 
 ## rime/weasel
 
-[![rime/weasel - GitHub](https://gh-card.dev/repos/rime/weasel.svg)](https://github.com/rime/weasel)
+[rime/weasel - GitHub](https://github.com/rime/weasel)
 
 ![](assets/image-1.png)
 
 下载最新版的安装包 安装 即可。
 
-[![iDvel/rime-ice - GitHub](https://gh-card.dev/repos/iDvel/rime-ice.svg)](https://github.com/iDvel/rime-ice)
+[iDvel/rime-ice - GitHub](https://github.com/iDvel/rime-ice)
 
 下载整个仓库。
 
 ## iDvel/rime-ice
 
-[![iDvel/rime-ice - GitHub](https://gh-card.dev/repos/iDvel/rime-ice.svg)](https://github.com/iDvel/rime-ice)
+[iDvel/rime-ice - GitHub](https://github.com/iDvel/rime-ice)
 
 ![](assets/image.png)
 
@@ -114,6 +114,6 @@ _然后基本配置就完成了。_
 >
 > [中州韻輸入法引擎/下載及安裝](https://rime.im/download/)
 >
-> [![rime/weasel - GitHub](https://gh-card.dev/repos/rime/weasel.svg)](https://github.com/rime/weasel)
+> [rime/weasel - GitHub](https://github.com/rime/weasel)
 >
-> [![iDvel/rime-ice - GitHub](https://gh-card.dev/repos/iDvel/rime-ice.svg)](https://github.com/iDvel/rime-ice)
+> [iDvel/rime-ice - GitHub](https://github.com/iDvel/rime-ice)
