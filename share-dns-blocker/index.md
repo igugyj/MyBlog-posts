@@ -101,13 +101,23 @@ AdGuard的开源上位替代。
 最后分享一下自己常用的几个社区过滤器：
 
 1. AdBlock DNS
-    <https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt>
+	```
+	https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
+	```
 1. AdBlock Filter
-    <https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt>
+    ```
+	https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
+	```
+
 1. NEO DEV HOST
-    <https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker>
+    ```
+	https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
+	```
+
 1. anti-AD for AdGuard
-    <https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt>
+    ```
+	https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt
+	```
 
 ---
 
