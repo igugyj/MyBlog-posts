@@ -1,7 +1,7 @@
 ---
-title: 分享一份气象学的 Anki 题库
+title: 分享一份气象学 Anki 题库
 published: 2026-11-13
-description: 我做的免费题库，快来白嫖！！！
+description: 分享我制作的免费气象学 Anki 题库，附 Quizify 插件安装与 Markdown 导入步骤。
 image: https://apps.ankiweb.net/logo.svg
 tags: ["Anki", "Windows", "GitHub"]
 category: SoftwareShare
@@ -97,7 +97,7 @@ draft: false
 ## 特别感谢
 
 - [ankitects/anki](https://github.com/ankitects/anki) 提供了anki软件支持
-- [e-chehil/anki-quizify](https://github.com/e-chehil/anki-quizify) 将markdown编程支持到了anki，使得题库的学习方式变得更加多样化
+- [e-chehil/anki-quizify](https://github.com/e-chehil/anki-quizify) 让 Anki 支持 Markdown 题库导入，使题库制作和学习方式更灵活。
 - VsCode 提供的编码环境
 
 ---
