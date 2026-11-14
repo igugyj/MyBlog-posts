@@ -3,7 +3,7 @@ title: 使用html文件自定义浏览器起始页
 published: 2025-03-27
 description: "使用html文件自定义浏览器起始页"
 image: ""
-tags: ["html"]
+tags: ["HTML"]
 category: Note
 draft: false
 ---

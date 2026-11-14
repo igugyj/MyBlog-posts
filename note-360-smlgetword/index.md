@@ -3,7 +3,7 @@ title: 翻 Windows 任务计划程序有感
 published: 2026-09-12
 description: "360 你 TM 又往我电脑里面偷偷塞屎了吧？！"
 image: "assets/image-3.png"
-tags: ["Windows", "360", "security", "GroupPolic", "RogueSoftware", "Daily"]
+tags: ["Windows", "360", "security", "GroupPolicy", "RogueSoftware", "Daily"]
 category: Note
 draft: false
 player:

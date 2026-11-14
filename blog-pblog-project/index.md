@@ -3,7 +3,7 @@ title: 关于静态网站项目Pblog
 published: 2025-11-23
 description: "Pblog的一些说明"
 image: "assets/f4bbcedd396b8bb0399c05a2e0e5e11f907694c5a15de77522ee1c4eb154bb73.png"
-tags: ["Pblog", "Python", "AI", "Markdown", "fuwari", "html"]
+tags: ["Pblog", "Python", "AI", "Markdown", "fuwari", "HTML"]
 category: Blog
 draft: false
 player:

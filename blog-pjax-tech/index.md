@@ -3,7 +3,7 @@ title: PJAX技术在博客中的应用
 published: 2025-12-12
 description: "关于前端PJAX技术的记录笔记"
 image: "assets/image-4.png"
-tags: ["Pblog", "html", "Live2D", "Web", "PJAX"]
+tags: ["Pblog", "HTML", "Live2D", "Web", "PJAX"]
 category: Blog
 draft: false
 ---

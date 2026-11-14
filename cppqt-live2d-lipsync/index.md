@@ -3,7 +3,7 @@ title: Live2D 唇形同步实现记录
 published: 2026-06-03
 description: "给 Live2D 模型加上 TTS 语音对应的口形动画，最终用三层 Perlin 噪声搞定。"
 image: "assets/image.png"
-tags: ["Live2D", "TTS", "C++", "Qt", "miniaudio"]
+tags: ["Live2D", "TTS", "Cpp", "Qt", "miniaudio"]
 category: Cpp-Qt
 draft: false
 ---

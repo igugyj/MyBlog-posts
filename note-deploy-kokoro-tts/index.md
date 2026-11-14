@@ -3,7 +3,7 @@ title: 如何在Windows上部署kokoro-v1_1-zh
 published: 2026-05-05
 description: "在Windows上部署kokoro-v1_1-zh"
 image: "assets/image.png"
-tags: ["Windows", "Python", "TTS", "HuggingFace", "Github"]
+tags: ["Windows", "Python", "TTS", "HuggingFace", "GitHub"]
 category: Note
 draft: false
 player:

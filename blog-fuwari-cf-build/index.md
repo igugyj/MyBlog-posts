@@ -3,7 +3,7 @@ title: 记录零成本博客构建过程
 published: 2025-07-24
 description: "fuwari + GitHub + cloudflare博客构建笔记"
 image: "assets/image.png"
-tags: ["fuwari", "GitHub", "cloudflare"]
+tags: ["fuwari", "GitHub", "Cloudflare"]
 category: Blog
 draft: false
 ---
