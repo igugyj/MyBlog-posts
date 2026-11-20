@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="686pt" height="352pt" viewBox="0.00 0.00 686.00 352.00">
+<g id="graph0" class="graph" transform="translate(4,348) scale(1)" data-name="SONG_SIMPLE">
+
+<polygon fill="#f5f0e1" stroke="none" points="-4,4 -4,-348 682,-348 682,4 -4,4" style=""/>
+<text text-anchor="start" x="249" y="-314" font-family="小赖字体" font-weight="bold" font-size="30.00" style="">宋朝历史脉络简图</text>
+<text text-anchor="start" x="255" y="-296.6" font-family="小赖字体" font-size="16.00" style="">五代十国 → 北宋 → 南宋 → 元</text>
+<text text-anchor="start" x="207.75" y="-282.4" font-family="小赖字体" font-size="14.00" style="">辽被金灭 · 西夏和金被蒙古灭 · 南宋被元灭 · 蒙古建元</text>
+<!-- wudai -->
+<g id="node1" class="node" pointer-events="visible" data-name="wudai">
+
+<path fill="none" stroke="black" stroke-width="2" d="M118,-276C118,-276 17,-276 17,-276 11,-276 5,-270 5,-264 5,-264 5,-208 5,-208 5,-202 11,-196 17,-196 17,-196 118,-196 118,-196 124,-196 130,-202 130,-208 130,-208 130,-264 130,-264 130,-270 124,-276 118,-276" style=""/>
+<text text-anchor="middle" x="67.5" y="-242" font-family="小赖字体" font-size="20.00" style="">五代十国</text>
+<text text-anchor="middle" x="67.5" y="-218" font-family="小赖字体" font-size="20.00" style="">907—979</text>
+</g>
+<!-- beisong -->
+<g id="node2" class="node" pointer-events="visible" data-name="beisong">
+
+<path fill="none" stroke="black" stroke-width="2" d="M299,-276C299,-276 188,-276 188,-276 182,-276 176,-270 176,-264 176,-264 176,-208 176,-208 176,-202 182,-196 188,-196 188,-196 299,-196 299,-196 305,-196 311,-202 311,-208 311,-208 311,-264 311,-264 311,-270 305,-276 299,-276" style=""/>
+<text text-anchor="middle" x="243.5" y="-242" font-family="小赖字体" font-size="20.00" style="">北宋</text>
+<text text-anchor="middle" x="243.5" y="-218" font-family="小赖字体" font-size="20.00" style="">960—1127</text>
+</g>
+<!-- wudai&#45;&gt;beisong -->
+<g id="edge1" class="edge" data-name="wudai-&gt;beisong">
+
+<path fill="none" stroke="black" stroke-width="2" d="M130.83,-236C140.01,-236 149.59,-236 159.12,-236" style=""/>
+<polygon fill="black" stroke="black" stroke-width="2" points="158.99,-240.55 171.98,-236 158.98,-231.45 158.99,-240.55" style=""/>
+</g>
+<!-- nansong -->
+<g id="node6" class="node" pointer-events="visible" data-name="nansong">
+
+<path fill="none" stroke="black" stroke-width="2" d="M485,-276C485,-276 364,-276 364,-276 358,-276 352,-270 352,-264 352,-264 352,-208 352,-208 352,-202 358,-196 364,-196 364,-196 485,-196 485,-196 491,-196 497,-202 497,-208 497,-208 497,-264 497,-264 497,-270 491,-276 485,-276" style=""/>
+<text text-anchor="middle" x="424.5" y="-242" font-family="小赖字体" font-size="20.00" style="">南宋</text>
+<text text-anchor="middle" x="424.5" y="-218" font-family="小赖字体" font-size="20.00" style="">1127—1279</text>
+</g>
+<!-- beisong&#45;&gt;nansong -->
+<g id="edge2" class="edge" data-name="beisong-&gt;nansong">
+
+<path fill="none" stroke="black" stroke-width="2" d="M311.92,-236C319.51,-236 327.32,-236 335.13,-236" style=""/>
+<polygon fill="black" stroke="black" stroke-width="2" points="335.03,-240.55 348.03,-236 335.03,-231.45 335.03,-240.55" style=""/>
+</g>
+<!-- liao -->
+<g id="node3" class="node" pointer-events="visible" data-name="liao">
+
+<path fill="none" stroke="black" stroke-width="2" d="M123,-80C123,-80 12,-80 12,-80 6,-80 0,-74 0,-68 0,-68 0,-12 0,-12 0,-6 6,0 12,0 12,0 123,0 123,0 129,0 135,-6 135,-12 135,-12 135,-68 135,-68 135,-74 129,-80 123,-80" style=""/>
+<text text-anchor="middle" x="67.5" y="-46" font-family="小赖字体" font-size="20.00" style="">辽</text>
+<text text-anchor="middle" x="67.5" y="-22" font-family="小赖字体" font-size="20.00" style="">916—1125</text>
+</g>
+<!-- jin -->
+<g id="node5" class="node" pointer-events="visible" data-name="jin">
+
+<path fill="none" stroke="black" stroke-width="2" d="M304,-80C304,-80 183,-80 183,-80 177,-80 171,-74 171,-68 171,-68 171,-12 171,-12 171,-6 177,0 183,0 183,0 304,0 304,0 310,0 316,-6 316,-12 316,-12 316,-68 316,-68 316,-74 310,-80 304,-80" style=""/>
+<text text-anchor="middle" x="243.5" y="-46" font-family="小赖字体" font-size="20.00" style="">金</text>
+<text text-anchor="middle" x="243.5" y="-22" font-family="小赖字体" font-size="20.00" style="">1115—1234</text>
+</g>
+<!-- liao&#45;&gt;jin -->
+<g id="edge4" class="edge" data-name="liao-&gt;jin">
+
+<path fill="none" stroke="black" stroke-width="2" d="M135.77,-40C141.86,-40 148.07,-40 154.3,-40" style=""/>
+<polygon fill="black" stroke="black" stroke-width="2" points="154.19,-44.55 167.19,-40 154.19,-35.45 154.19,-44.55" style=""/>
+</g>
+<!-- xixia -->
+<g id="node4" class="node" pointer-events="visible" data-name="xixia">
+
+<path fill="none" stroke="black" stroke-width="2" d="M304,-178C304,-178 183,-178 183,-178 177,-178 171,-172 171,-166 171,-166 171,-110 171,-110 171,-104 177,-98 183,-98 183,-98 304,-98 304,-98 310,-98 316,-104 316,-110 316,-110 316,-166 316,-166 316,-172 310,-178 304,-178" style=""/>
+<text text-anchor="middle" x="243.5" y="-144" font-family="小赖字体" font-size="20.00" style="">西夏</text>
+<text text-anchor="middle" x="243.5" y="-120" font-family="小赖字体" font-size="20.00" style="">1038—1227</text>
+</g>
+<!-- menggu -->
+<g id="node7" class="node" pointer-events="visible" data-name="menggu">
+
+<path fill="none" stroke="black" stroke-width="2" d="M485,-178C485,-178 364,-178 364,-178 358,-178 352,-172 352,-166 352,-166 352,-110 352,-110 352,-104 358,-98 364,-98 364,-98 485,-98 485,-98 491,-98 497,-104 497,-110 497,-110 497,-166 497,-166 497,-172 491,-178 485,-178" style=""/>
+<text text-anchor="middle" x="424.5" y="-144" font-family="小赖字体" font-size="20.00" style="">蒙古</text>
+<text text-anchor="middle" x="424.5" y="-120" font-family="小赖字体" font-size="20.00" style="">1206—1271</text>
+</g>
+<!-- xixia&#45;&gt;menggu -->
+<g id="edge6" class="edge" data-name="xixia-&gt;menggu">
+
+<path fill="none" stroke="black" stroke-width="2" d="M316.79,-138C322.91,-138 329.14,-138 335.36,-138" style=""/>
+<polygon fill="black" stroke="black" stroke-width="2" points="335.2,-142.55 348.2,-138 335.2,-133.45 335.2,-142.55" style=""/>
+</g>
+<!-- jin&#45;&gt;menggu -->
+<g id="edge5" class="edge" data-name="jin-&gt;menggu">
+
+<path fill="none" stroke="black" stroke-width="2" d="M316.79,-79.58C323.53,-83.27 330.41,-87.03 337.26,-90.78" style=""/>
+<polygon fill="black" stroke="black" stroke-width="2" points="334.99,-94.73 348.58,-96.98 339.36,-86.75 334.99,-94.73" style=""/>
+</g>
+<!-- yuan -->
+<g id="node8" class="node" pointer-events="visible" data-name="yuan">
+
+<path fill="none" stroke="black" stroke-width="2" d="M666,-227C666,-227 545,-227 545,-227 539,-227 533,-221 533,-215 533,-215 533,-159 533,-159 533,-153 539,-147 545,-147 545,-147 666,-147 666,-147 672,-147 678,-153 678,-159 678,-159 678,-215 678,-215 678,-221 672,-227 666,-227" style=""/>
+<text text-anchor="middle" x="605.5" y="-193" font-family="小赖字体" font-size="20.00" style="">元</text>
+<text text-anchor="middle" x="605.5" y="-169" font-family="小赖字体" font-size="20.00" style="">1271—1368</text>
+</g>
+<!-- nansong&#45;&gt;yuan -->
+<g id="edge3" class="edge" data-name="nansong-&gt;yuan">
+
+<path fill="none" stroke="black" stroke-width="2" d="M497.79,-216.21C504.09,-214.49 510.5,-212.73 516.9,-210.98" style=""/>
+<polygon fill="black" stroke="black" stroke-width="2" points="517.97,-215.4 529.31,-207.58 515.57,-206.63 517.97,-215.4" style=""/>
+</g>
+<!-- menggu&#45;&gt;yuan -->
+<g id="edge7" class="edge" data-name="menggu-&gt;yuan">
+
+<path fill="none" stroke="black" stroke-width="2" d="M497.79,-157.79C504.09,-159.51 510.5,-161.27 516.9,-163.02" style=""/>
+<polygon fill="black" stroke="black" stroke-width="2" points="515.57,-167.37 529.31,-166.42 517.97,-158.6 515.57,-167.37" style=""/>
+</g>
+</g>
+</svg>

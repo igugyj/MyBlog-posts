@@ -1,0 +1,28 @@
+digraph SONG_SIMPLE {
+    splines="polyline";
+    rankdir="LR";
+    bgcolor="#f5f0e1";
+    labelloc="t";
+    fontname="小赖字体";
+    label=<<B><FONT POINT-SIZE="30">宋朝历史脉络简图</FONT></B><BR/><FONT POINT-SIZE="16">五代十国 → 北宋 → 南宋 → 元</FONT><BR/><FONT POINT-SIZE="14">辽被金灭 · 西夏和金被蒙古灭 · 南宋被元灭 · 蒙古建元</FONT>>;
+    node [shape="box", style="rounded,bold", fontname="小赖字体", fontsize=20, color="black", fontcolor="black", fillcolor="white", penwidth=2, margin="0.35,0.22"];
+    edge [color="black", penwidth=2, arrowsize=1.3, fontname="小赖字体", fontsize=16];
+    wudai [label="五代十国\n907—979"];
+    beisong [label="北宋\n960—1127"];
+    liao [label="辽\n916—1125"];
+    xixia [label="西夏\n1038—1227"];
+    jin [label="金\n1115—1234"];
+    nansong [label="南宋\n1127—1279"];
+    menggu [label="蒙古\n1206—1271"];
+    yuan [label="元\n1271—1368"];
+    // 中原 / 南方主线
+    wudai -> beisong;
+    beisong -> nansong;
+    nansong -> yuan;
+    // 北方政权更替
+    liao -> jin;
+    jin -> menggu;
+    // 西北与最终统一
+    xixia -> menggu;
+    menggu -> yuan;
+}

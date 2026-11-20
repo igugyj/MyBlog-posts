@@ -1,0 +1,279 @@
+digraph HAN {
+    splines="ortho";
+    forcelabels="true";
+    // newrank="true";
+    compound="true";
+    node [shape="box", fontname="小赖字体", margin="0.8,0.1"];
+    edge [dir="none"];
+    nodesep=3;
+    rankdir="TB";
+    subgraph cluster_qinEnd {
+        label="秦末";
+        style="rounded";
+        color="#888888";
+        qinmo [label="秦末 楚汉相争", shape="plaintext"];
+    }
+    subgraph cluster_xihj {
+        label="西汉";
+        style="rounded";
+        color="#5dc0e8";
+        subgraph cluster_fam_l1 {
+            label="刘邦 · 吕后";
+            style="rounded,filled";
+            fillcolor="#fdf2f2";
+            color="#c0504d";
+            l1 [label="1. 汉高祖 刘邦"];
+            l1_1 [label="吕后"];
+            {
+                rank="same";
+                l1;
+                l1_1;
+            }
+        }
+        subgraph cluster_wenjing {
+            label="文景之治";
+            style="rounded";
+            color="#95c038";
+            subgraph cluster_fam_l5 {
+                label="刘恒 · 窦太后";
+                style="rounded,filled";
+                fillcolor="#fdf2f2";
+                color="#c0504d";
+                l5 [label="5. 汉文帝 刘恒"];
+                l5_1 [label="窦太后"];
+                {
+                    rank="same";
+                    l5;
+                    l5_1;
+                }
+            }
+            subgraph cluster_fam_l6 {
+                label="刘启 · 王娡";
+                style="rounded,filled";
+                fillcolor="#fdf2f2";
+                color="#c0504d";
+                l6 [label="6. 汉景帝 刘启"];
+                l6_1 [label="王娡"];
+                {
+                    rank="same";
+                    l6;
+                    l6_1;
+                }
+            }
+        }
+        subgraph cluster_fam_l7 {
+            label="刘彻 · 钩弋夫人 · 汉武盛世";
+            style="rounded,filled";
+            fillcolor="#ed7a7aff";
+            color="#ff0000";
+            l7 [label="7. 汉武帝 刘彻"];
+            l7_1 [label="钩弋夫人"];
+            {
+                rank="same";
+                l7;
+                l7_1;
+            }
+        }
+        subgraph cluster_fam_l10 {
+            label="刘询 · 许平君";
+            style="rounded,filled";
+            fillcolor="#fdf2f2";
+            color="#c0504d";
+            l10 [label="10. 汉宣帝 刘询"];
+            l10_1 [label="许平君"];
+            {
+                rank="same";
+                l10;
+                l10_1;
+            }
+        }
+        subgraph cluster_fam_l11 {
+            label="刘奭 · 王政君";
+            style="rounded,filled";
+            fillcolor="#fdf2f2";
+            color="#c0504d";
+            l11 [label="11. 汉元帝 刘奭"];
+            l11_1 [label="王政君"];
+            {
+                rank="same";
+                l11;
+                l11_1;
+            }
+        }
+        l2 [label="2. 汉惠帝 刘盈"];
+        l3 [label="3. 汉前少帝 刘恭"];
+        l4 [label="4. 汉后少帝 刘弘"];
+        l8 [label="8. 汉昭帝 刘弗陵"];
+        l9 [label="9. 汉废帝 刘贺"];
+        a1 [label="昌邑哀王 刘髆", style="filled", fillcolor="#f0f0f0"];
+        l7_2 [label="戾太子 刘据", style="filled", fillcolor="#f0f0f0"];
+        a2 [label="史皇孙 刘进", style="filled", fillcolor="#f0f0f0"];
+        l11_3 [label="定陶恭王 刘康", style="filled", fillcolor="#f0f0f0"];
+        l11_4 [label="中山孝王 刘兴", style="filled", fillcolor="#f0f0f0"];
+        l12 [label="12. 汉成帝 刘骜"];
+        l13 [label="13. 汉哀帝 刘欣"];
+        l14 [label="14. 汉平帝 刘衎"];
+        c1 [label="霍光", style="filled", fillcolor="#fff3cd"];
+        l14_2 [label="王莽", style="filled", fillcolor="#fff3cd"];
+    }
+    subgraph cluster_dshj {
+        label="东汉";
+        style="rounded";
+        color="#d1a6f7";
+        subgraph cluster_fam_l16 {
+            label="刘秀 · 阴丽华";
+            style="rounded,filled";
+            fillcolor="#f6f0fd";
+            color="#8e5bd1";
+            l16 [label="16. 光武帝 刘秀"];
+            l16_1 [label="阴丽华"];
+            {
+                rank="same";
+                l16;
+                l16_1;
+            }
+        }
+        subgraph cluster_fam_l17 {
+            label="刘庄 · 马皇后";
+            style="rounded,filled";
+            fillcolor="#f6f0fd";
+            color="#8e5bd1";
+            l17 [label="17. 汉明帝 刘庄"];
+            l17_1 [label="马皇后"];
+            {
+                rank="same";
+                l17;
+                l17_1;
+            }
+        }
+        subgraph cluster_fam_l18 {
+            label="刘炟 · 窦太后";
+            style="rounded,filled";
+            fillcolor="#f6f0fd";
+            color="#8e5bd1";
+            l18 [label="18. 汉章帝 刘炟"];
+            l18_1 [label="窦太后"];
+            {
+                rank="same";
+                l18;
+                l18_1;
+            }
+        }
+        subgraph cluster_fam_l19 {
+            label="刘肇 · 邓绥";
+            style="rounded,filled";
+            fillcolor="#f6f0fd";
+            color="#8e5bd1";
+            l19 [label="19. 汉和帝 刘肇"];
+            l19_1 [label="邓绥"];
+            {
+                rank="same";
+                l19;
+                l19_1;
+            }
+        }
+        subgraph cluster_fam_l21 {
+            label="刘祜 · 李氏";
+            style="rounded,filled";
+            fillcolor="#f6f0fd";
+            color="#8e5bd1";
+            l21 [label="21. 汉安帝 刘祜"];
+            l21_1 [label="李氏"];
+            {
+                rank="same";
+                l21;
+                l21_1;
+            }
+        }
+        subgraph cluster_fam_l23 {
+            label="刘保 · 梁妠";
+            style="rounded,filled";
+            fillcolor="#f6f0fd";
+            color="#8e5bd1";
+            l23 [label="23. 汉顺帝 刘保"];
+            l23_1 [label="梁妠"];
+            {
+                rank="same";
+                l23;
+                l23_1;
+            }
+        }
+        subgraph cluster_fam_l27 {
+            label="刘宏 · 何太后 · 王美人";
+            style="rounded,filled";
+            fillcolor="#f6f0fd";
+            color="#8e5bd1";
+            l27 [label="27. 汉灵帝 刘宏"];
+            l27_1 [label="何太后"];
+            l27_2 [label="王美人"];
+            {
+                rank="same";
+                l27;
+                l27_1;
+                l27_2;
+            }
+        }
+        l15 [label="15. 更始帝 刘玄"];
+        l20 [label="20. 汉殇帝 刘隆"];
+        l22 [label="22. 汉少帝 刘懿"];
+        l24 [label="24. 汉冲帝 刘炳"];
+        l25 [label="25. 汉质帝 刘缵"];
+        l26 [label="26. 汉桓帝 刘志"];
+        l28 [label="28. 汉少帝 刘辩"];
+        l29 [label="29. 汉献帝 刘协"];
+        l18_2 [label="清河王 刘庆", style="filled", fillcolor="#f0f0f0"];
+        d1 [label="董卓", style="filled", fillcolor="#fff3cd"];
+        c3 [label="曹操", style="filled", fillcolor="#fff3cd"];
+        c2 [label="曹丕", style="filled", fillcolor="#fff3cd"];
+    }
+    // ===== 西汉：家庭框 → 儿子 =====
+    qinmo -> l1 [style="dashed", xlabel="建立西汉"];
+    l1 -> l2 [ltail="cluster_fam_l1"];
+    l1 -> l4 [ltail="cluster_fam_l1", style="dashed"];
+    l1 -> l5 [ltail="cluster_fam_l1", style="dashed", xlabel="庶子"];
+    l2 -> l3;
+    l5 -> l6 [ltail="cluster_fam_l5", lhead="cluster_fam_l6"];
+    l6 -> l7 [ltail="cluster_fam_l6", lhead="cluster_fam_l7"];
+    l7 -> l8 [ltail="cluster_fam_l7"];
+    l7 -> a1 [ltail="cluster_fam_l7", style="dashed", xlabel="庶子"];
+    a1 -> l9;
+    c1 -> l8 [style="dotted", xlabel="辅佐"];
+    c1 -> l9 [style="dotted", xlabel="废立"];
+    c1 -> l10 [style="dotted", lhead="cluster_fam_l10", xlabel="辅佐"];
+    l7 -> l7_2 [ltail="cluster_fam_l7", style="dashed", xlabel="庶子"];
+    l7_2 -> a2;
+    a2 -> l10;
+    l10 -> l11 [ltail="cluster_fam_l10", lhead="cluster_fam_l11"];
+    l11 -> l12 [ltail="cluster_fam_l11"];
+    l11 -> l11_3 [ltail="cluster_fam_l11", style="dashed", xlabel="庶子"];
+    l11 -> l11_4 [ltail="cluster_fam_l11", style="dashed", xlabel="庶子"];
+    l11_3 -> l13;
+    l11_4 -> l14;
+    // 王莽在平帝之后，不是之前
+    l14 -> l14_2 [style="tapered", label="王莽篡汉"];
+    // ===== 西汉 → 东汉：关键连接 =====
+    l14_2 -> l15 [style="dashed", label="新朝→更始"];
+    // ===== 东汉：家庭框 → 儿子 =====
+    l15 -> l16 [style="dashed", label="族兄弟"];
+    l16 -> l17 [ltail="cluster_fam_l16", lhead="cluster_fam_l17"];
+    l17 -> l18 [ltail="cluster_fam_l17", lhead="cluster_fam_l18"];
+    l18 -> l19 [ltail="cluster_fam_l18", lhead="cluster_fam_l19"];
+    l19 -> l20 [ltail="cluster_fam_l19"];
+    l18 -> l18_2 [ltail="cluster_fam_l18", style="dashed", xlabel="庶子"];
+    l18_2 -> l21;
+    l21 -> l23 [ltail="cluster_fam_l21", lhead="cluster_fam_l23"];
+    l23 -> l24 [ltail="cluster_fam_l23"];
+    l27 -> l28 [ltail="cluster_fam_l27"];
+    l27 -> l29 [ltail="cluster_fam_l27", style="dashed"];
+    // 非血缘继位：保留虚线，但参与竖直布局
+    l20 -> l21 [style="dotted", label="继位"];
+    l21 -> l22 [style="dotted", label="继位"];
+    l22 -> l23 [style="dotted", label="继位"];
+    l24 -> l25 [style="dotted", label="继位"];
+    l25 -> l26 [style="dotted", label="继位"];
+    l26 -> l27 [style="dotted", label="继位"];
+    l28 -> l29 [style="dotted", label="继位"];
+    d1 -> l28 [style="dotted", label="废立"];
+    c3 -> l29 [style="dotted", label="挟天子以令诸侯"];
+    c2 -> l29 [style="dotted", label="AD 220 篡汉 汉朝灭亡"];
+}

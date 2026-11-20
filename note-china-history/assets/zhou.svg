@@ -1,0 +1,573 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2301pt" height="2563pt" viewBox="0.00 0.00 2300.59 2563.20">
+<g id="graph0" class="graph" transform="translate(4,2559.199951171875) scale(1)" data-name="">
+<polygon fill="white" stroke="none" points="-4,4 -4,-2559.2 2296.59,-2559.2 2296.59,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="cluster_shang">
+
+<path fill="none" stroke="#888888" d="M372,-2398.4C372,-2398.4 580,-2398.4 580,-2398.4 586,-2398.4 592,-2404.4 592,-2410.4 592,-2410.4 592,-2535.2 592,-2535.2 592,-2541.2 586,-2547.2 580,-2547.2 580,-2547.2 372,-2547.2 372,-2547.2 366,-2547.2 360,-2541.2 360,-2535.2 360,-2535.2 360,-2410.4 360,-2410.4 360,-2404.4 366,-2398.4 372,-2398.4" style=""/>
+<text text-anchor="middle" x="476" y="-2530.6" font-family="Times,serif" font-size="14.00" style="">商 / 先周</text>
+</g>
+<g id="clust2" class="cluster" data-name="cluster_xizhou">
+
+<path fill="none" stroke="#1f77b4" d="M20,-1593.6C20,-1593.6 721,-1593.6 721,-1593.6 727,-1593.6 733,-1599.6 733,-1605.6 733,-1605.6 733,-2378.4 733,-2378.4 733,-2384.4 727,-2390.4 721,-2390.4 721,-2390.4 20,-2390.4 20,-2390.4 14,-2390.4 8,-2384.4 8,-2378.4 8,-2378.4 8,-1605.6 8,-1605.6 8,-1599.6 14,-1593.6 20,-1593.6" style=""/>
+<text text-anchor="middle" x="370.5" y="-2373.8" font-family="Times,serif" font-size="14.00" style="">西周</text>
+</g>
+<g id="clust3" class="cluster" data-name="cluster_dongzhou">
+
+<path fill="none" stroke="#2ca02c" d="M263,-64C263,-64 1294,-64 1294,-64 1300,-64 1306,-70 1306,-76 1306,-76 1306,-1573.6 1306,-1573.6 1306,-1579.6 1300,-1585.6 1294,-1585.6 1294,-1585.6 263,-1585.6 263,-1585.6 257,-1585.6 251,-1579.6 251,-1573.6 251,-1573.6 251,-76 251,-76 251,-70 257,-64 263,-64" style=""/>
+<text text-anchor="middle" x="778.5" y="-1569" font-family="Times,serif" font-size="14.00" style="">东周</text>
+</g>
+<g id="clust4" class="cluster" data-name="cluster_fenguo">
+
+<path fill="none" stroke="#ff7f0e" d="M1512,-64C1512,-64 2214,-64 2214,-64 2220,-64 2226,-70 2226,-76 2226,-76 2226,-488.8 2226,-488.8 2226,-494.8 2220,-500.8 2214,-500.8 2214,-500.8 1512,-500.8 1512,-500.8 1506,-500.8 1500,-494.8 1500,-488.8 1500,-488.8 1500,-76 1500,-76 1500,-70 1506,-64 1512,-64" style=""/>
+<text text-anchor="middle" x="1863" y="-484.2" font-family="Times,serif" font-size="14.00" style="">西周国 / 东周国</text>
+</g>
+<!-- n1 -->
+<g id="node1" class="node" pointer-events="visible" data-name="n1">
+
+<polygon fill="none" stroke="black" points="580.81,-2514.4 371.19,-2514.4 371.19,-2478.4 580.81,-2478.4 580.81,-2514.4" style=""/>
+<text text-anchor="middle" x="476" y="-2492.2" font-family="小赖字体" font-size="14.00" style="">(-1) [商] 周侯 季历</text>
+</g>
+<!-- n2 -->
+<g id="node2" class="node" pointer-events="visible" data-name="n2">
+
+<polygon fill="none" stroke="black" points="583.65,-2442.4 368.35,-2442.4 368.35,-2406.4 583.65,-2406.4 583.65,-2442.4" style=""/>
+<text text-anchor="middle" x="476" y="-2420.2" font-family="小赖字体" font-size="14.00" style="">(0) [商] 周文王 姬昌</text>
+</g>
+<!-- n1&#45;&gt;n2 -->
+<g id="edge1" class="edge" data-name="n1-&gt;n2">
+
+<path fill="none" stroke="black" d="M476,-2478.23C476,-2467.4 476,-2453.69 476,-2442.81" style=""/>
+</g>
+<!-- n3 -->
+<g id="node3" class="node" pointer-events="visible" data-name="n3">
+
+<polygon fill="none" stroke="black" points="571.82,-2357.6 380.18,-2357.6 380.18,-2321.6 571.82,-2321.6 571.82,-2357.6" style=""/>
+<text text-anchor="middle" x="476" y="-2335.4" font-family="小赖字体" font-size="14.00" style="">(1) 周武王 姬发</text>
+</g>
+<!-- n2&#45;&gt;n3 -->
+<g id="edge2" class="edge" data-name="n2-&gt;n3">
+
+<path fill="none" stroke="black" d="M476,-2406C476,-2391.78 476,-2372.18 476,-2357.96" style=""/>
+</g>
+<!-- n4 -->
+<g id="node4" class="node" pointer-events="visible" data-name="n4">
+
+<polygon fill="none" stroke="black" points="571.82,-2285.6 380.18,-2285.6 380.18,-2249.6 571.82,-2249.6 571.82,-2285.6" style=""/>
+<text text-anchor="middle" x="476" y="-2263.4" font-family="小赖字体" font-size="14.00" style="">(2) 周成王 姬诵</text>
+</g>
+<!-- n3&#45;&gt;n4 -->
+<g id="edge3" class="edge" data-name="n3-&gt;n4">
+
+<path fill="none" stroke="black" d="M476,-2321.43C476,-2310.6 476,-2296.89 476,-2286.01" style=""/>
+</g>
+<!-- n5 -->
+<g id="node6" class="node" pointer-events="visible" data-name="n5">
+
+<polygon fill="none" stroke="black" points="531.82,-2213.6 340.18,-2213.6 340.18,-2177.6 531.82,-2177.6 531.82,-2213.6" style=""/>
+<text text-anchor="middle" x="436" y="-2191.4" font-family="小赖字体" font-size="14.00" style="">(3) 周康王 姬钊</text>
+</g>
+<!-- n4&#45;&gt;n5 -->
+<g id="edge4" class="edge" data-name="n4-&gt;n5">
+
+<path fill="none" stroke="black" d="M456,-2249.43C456,-2238.6 456,-2224.89 456,-2214.01" style=""/>
+</g>
+<!-- n4_1 -->
+<g id="node5" class="node" pointer-events="visible" data-name="n4_1">
+
+<polygon fill="#eeeeee" stroke="black" points="163.5,-2285.6 16.5,-2285.6 16.5,-2249.6 163.5,-2249.6 163.5,-2285.6" style=""/>
+<text text-anchor="middle" x="90" y="-2263.4" font-family="小赖字体" font-size="14.00" style="">周公旦</text>
+</g>
+<!-- n4_1&#45;&gt;n4 -->
+<g id="edge12" class="edge" data-name="n4_1-&gt;n4">
+
+<path fill="none" stroke="black" d="M163.97,-2267C225.37,-2267 313.15,-2267 379.97,-2267" style=""/>
+<text text-anchor="middle" x="261.47" y="-2271.2" font-family="Times,serif" font-size="14.00" style="">辅佐</text>
+</g>
+<!-- n6 -->
+<g id="node7" class="node" pointer-events="visible" data-name="n6">
+
+<polygon fill="none" stroke="black" points="492.82,-2141.6 301.18,-2141.6 301.18,-2105.6 492.82,-2105.6 492.82,-2141.6" style=""/>
+<text text-anchor="middle" x="397" y="-2119.4" font-family="小赖字体" font-size="14.00" style="">(4) 周昭王 姬瑕</text>
+</g>
+<!-- n5&#45;&gt;n6 -->
+<g id="edge5" class="edge" data-name="n5-&gt;n6">
+
+<path fill="none" stroke="black" d="M416.5,-2177.43C416.5,-2166.6 416.5,-2152.89 416.5,-2142.01" style=""/>
+</g>
+<!-- n7 -->
+<g id="node8" class="node" pointer-events="visible" data-name="n7">
+
+<polygon fill="none" stroke="black" points="413.82,-2069.6 222.18,-2069.6 222.18,-2033.6 413.82,-2033.6 413.82,-2069.6" style=""/>
+<text text-anchor="middle" x="318" y="-2047.4" font-family="小赖字体" font-size="14.00" style="">(5) 周穆王 姬满</text>
+</g>
+<!-- n6&#45;&gt;n7 -->
+<g id="edge6" class="edge" data-name="n6-&gt;n7">
+
+<path fill="none" stroke="black" d="M357.5,-2105.43C357.5,-2094.6 357.5,-2080.89 357.5,-2070.01" style=""/>
+</g>
+<!-- n8 -->
+<g id="node9" class="node" pointer-events="visible" data-name="n8">
+
+<polygon fill="none" stroke="black" points="262.32,-1997.6 59.68,-1997.6 59.68,-1961.6 262.32,-1961.6 262.32,-1997.6" style=""/>
+<text text-anchor="middle" x="161" y="-1975.4" font-family="小赖字体" font-size="14.00" style="">(6) 周恭王 姬繄扈</text>
+</g>
+<!-- n7&#45;&gt;n8 -->
+<g id="edge7" class="edge" data-name="n7-&gt;n8">
+
+<path fill="none" stroke="black" d="M242.12,-2033.43C242.12,-2022.6 242.12,-2008.89 242.12,-1998.01" style=""/>
+</g>
+<!-- n9 -->
+<g id="node10" class="node" pointer-events="visible" data-name="n9">
+
+<polygon fill="none" stroke="black" points="244.82,-1925.6 53.18,-1925.6 53.18,-1889.6 244.82,-1889.6 244.82,-1925.6" style=""/>
+<text text-anchor="middle" x="149" y="-1903.4" font-family="小赖字体" font-size="14.00" style="">(7) 周懿王 姬囏</text>
+</g>
+<!-- n8&#45;&gt;n9 -->
+<g id="edge8" class="edge" data-name="n8-&gt;n9">
+
+<path fill="none" stroke="black" d="M152.38,-1961.43C152.38,-1950.6 152.38,-1936.89 152.38,-1926.01" style=""/>
+</g>
+<!-- n8_1 -->
+<g id="node11" class="node" pointer-events="visible" data-name="n8_1">
+
+<polygon fill="none" stroke="black" points="680.32,-1997.6 477.68,-1997.6 477.68,-1961.6 680.32,-1961.6 680.32,-1997.6" style=""/>
+<text text-anchor="middle" x="579" y="-1975.4" font-family="小赖字体" font-size="14.00" style="">(8) 周孝王 姬辟方</text>
+</g>
+<!-- n8&#45;&gt;n8_1 -->
+<g id="edge9" class="edge" data-name="n8-&gt;n8_1">
+
+<path fill="none" stroke="black" d="M262.72,-1979C327.85,-1979 412.04,-1979 477.19,-1979" style=""/>
+<text text-anchor="middle" x="359.45" y="-1983.2" font-family="Times,serif" font-size="14.00" style="">弟弟</text>
+</g>
+<!-- n10 -->
+<g id="node12" class="node" pointer-events="visible" data-name="n10">
+
+<polygon fill="none" stroke="black" points="233.82,-1853.6 42.18,-1853.6 42.18,-1817.6 233.82,-1817.6 233.82,-1853.6" style=""/>
+<text text-anchor="middle" x="138" y="-1831.4" font-family="小赖字体" font-size="14.00" style="">(9) 周夷王 姬燮</text>
+</g>
+<!-- n9&#45;&gt;n10 -->
+<g id="edge10" class="edge" data-name="n9-&gt;n10">
+
+<path fill="none" stroke="black" d="M143.5,-1889.43C143.5,-1878.6 143.5,-1864.89 143.5,-1854.01" style=""/>
+</g>
+<!-- n11 -->
+<g id="node13" class="node" pointer-events="visible" data-name="n11">
+
+<polygon fill="none" stroke="black" points="214.32,-1781.6 15.68,-1781.6 15.68,-1745.6 214.32,-1745.6 214.32,-1781.6" style=""/>
+<text text-anchor="middle" x="115" y="-1759.4" font-family="小赖字体" font-size="14.00" style="">(10) 周厉王 姬胡</text>
+</g>
+<!-- n10&#45;&gt;n11 -->
+<g id="edge11" class="edge" data-name="n10-&gt;n11">
+
+<path fill="none" stroke="black" d="M128.25,-1817.43C128.25,-1806.6 128.25,-1792.89 128.25,-1782.01" style=""/>
+</g>
+<!-- n11_1 -->
+<g id="node14" class="node" pointer-events="visible" data-name="n11_1">
+
+<polygon fill="#eeeeee" stroke="black" points="725.49,-1781.6 430.51,-1781.6 430.51,-1745.6 725.49,-1745.6 725.49,-1781.6" style=""/>
+<text text-anchor="middle" x="578" y="-1759.4" font-family="小赖字体" font-size="14.00" style="">(10-1) 周定公 召穆公 共和执政 14年</text>
+</g>
+<!-- n11&#45;&gt;n11_1 -->
+<g id="edge13" class="edge" data-name="n11-&gt;n11_1">
+
+<path fill="none" stroke="black" d="M214.61,-1763C277.47,-1763 359.79,-1763 430.18,-1763" style=""/>
+</g>
+<!-- n12 -->
+<g id="node15" class="node" pointer-events="visible" data-name="n12">
+
+<polygon fill="none" stroke="black" points="677.32,-1709.6 478.68,-1709.6 478.68,-1673.6 677.32,-1673.6 677.32,-1709.6" style=""/>
+<text text-anchor="middle" x="578" y="-1687.4" font-family="小赖字体" font-size="14.00" style="">(11) 周宣王 姬静</text>
+</g>
+<!-- n11_1&#45;&gt;n12 -->
+<g id="edge14" class="edge" data-name="n11_1-&gt;n12">
+
+<path fill="none" stroke="black" d="M578,-1745.43C578,-1734.6 578,-1720.89 578,-1710.01" style=""/>
+</g>
+<!-- n13 -->
+<g id="node16" class="node" pointer-events="visible" data-name="n13">
+
+<polygon fill="none" stroke="black" points="682.82,-1637.6 473.18,-1637.6 473.18,-1601.6 682.82,-1601.6 682.82,-1637.6" style=""/>
+<text text-anchor="middle" x="578" y="-1615.4" font-family="小赖字体" font-size="14.00" style="">(12) 周幽王 姬宫湦</text>
+</g>
+<!-- n12&#45;&gt;n13 -->
+<g id="edge15" class="edge" data-name="n12-&gt;n13">
+
+<path fill="none" stroke="black" d="M578,-1673.43C578,-1662.6 578,-1648.89 578,-1638.01" style=""/>
+</g>
+<!-- n14 -->
+<g id="node17" class="node" pointer-events="visible" data-name="n14">
+
+<polygon fill="none" stroke="black" points="891.32,-1552.8 688.68,-1552.8 688.68,-1516.8 891.32,-1516.8 891.32,-1552.8" style=""/>
+<text text-anchor="middle" x="790" y="-1530.6" font-family="小赖字体" font-size="14.00" style="">(1) 周平王 姬宜臼</text>
+</g>
+<!-- n13&#45;&gt;n14 -->
+<g id="edge16" class="edge" data-name="n13-&gt;n14">
+
+<path fill="none" stroke="black" d="M674.38,-1601.45C674.38,-1576.32 674.38,-1534 674.38,-1534 674.38,-1534 679.91,-1534 688.55,-1534" style=""/>
+</g>
+<!-- n14_1 -->
+<g id="node18" class="node" pointer-events="visible" data-name="n14_1">
+
+<polygon fill="none" stroke="black" points="472.99,-1552.8 259.01,-1552.8 259.01,-1516.8 472.99,-1516.8 472.99,-1552.8" style=""/>
+<text text-anchor="middle" x="366" y="-1530.6" font-family="小赖字体" font-size="14.00" style="">(1-1) 周携王 姬余臣</text>
+</g>
+<!-- n13&#45;&gt;n14_1 -->
+<g id="edge17" class="edge" data-name="n13-&gt;n14_1">
+
+<path fill="none" stroke="black" d="M472.7,-1619C460.26,-1619 451.88,-1619 451.88,-1619 451.88,-1619 451.88,-1577.83 451.88,-1553.07" style=""/>
+</g>
+<!-- n15 -->
+<g id="node19" class="node" pointer-events="visible" data-name="n15">
+
+<polygon fill="none" stroke="black" points="884.82,-1480.8 693.18,-1480.8 693.18,-1444.8 884.82,-1444.8 884.82,-1480.8" style=""/>
+<text text-anchor="middle" x="789" y="-1458.6" font-family="小赖字体" font-size="14.00" style="">(2) 周桓王 姬林</text>
+</g>
+<!-- n14&#45;&gt;n15 -->
+<g id="edge18" class="edge" data-name="n14-&gt;n15">
+
+<path fill="none" stroke="black" d="M789,-1516.63C789,-1505.8 789,-1492.09 789,-1481.21" style=""/>
+</g>
+<!-- n16 -->
+<g id="node20" class="node" pointer-events="visible" data-name="n16">
+
+<polygon fill="none" stroke="black" points="857.82,-1408.8 666.18,-1408.8 666.18,-1372.8 857.82,-1372.8 857.82,-1408.8" style=""/>
+<text text-anchor="middle" x="762" y="-1386.6" font-family="小赖字体" font-size="14.00" style="">(3) 周庄王 姬佗</text>
+</g>
+<!-- n15&#45;&gt;n16 -->
+<g id="edge19" class="edge" data-name="n15-&gt;n16">
+
+<path fill="none" stroke="black" d="M775.5,-1444.63C775.5,-1433.8 775.5,-1420.09 775.5,-1409.21" style=""/>
+</g>
+<!-- n17 -->
+<g id="node21" class="node" pointer-events="visible" data-name="n17">
+
+<polygon fill="none" stroke="black" points="863.32,-1336.8 660.68,-1336.8 660.68,-1300.8 863.32,-1300.8 863.32,-1336.8" style=""/>
+<text text-anchor="middle" x="762" y="-1314.6" font-family="小赖字体" font-size="14.00" style="">(4) 周釐王 姬胡齐</text>
+</g>
+<!-- n16&#45;&gt;n17 -->
+<g id="edge20" class="edge" data-name="n16-&gt;n17">
+
+<path fill="none" stroke="black" d="M762,-1372.63C762,-1361.8 762,-1348.09 762,-1337.21" style=""/>
+</g>
+<!-- n18 -->
+<g id="node22" class="node" pointer-events="visible" data-name="n18">
+
+<polygon fill="none" stroke="black" points="644.82,-1264.8 453.18,-1264.8 453.18,-1228.8 644.82,-1228.8 644.82,-1264.8" style=""/>
+<text text-anchor="middle" x="549" y="-1242.6" font-family="小赖字体" font-size="14.00" style="">(5) 周惠王 姬阆</text>
+</g>
+<!-- n17&#45;&gt;n18 -->
+<g id="edge21" class="edge" data-name="n17-&gt;n18">
+
+<path fill="none" stroke="black" d="M681.49,-1300.43C681.49,-1278.86 681.49,-1246 681.49,-1246 681.49,-1246 665.83,-1246 645.29,-1246" style=""/>
+</g>
+<!-- n19 -->
+<g id="node23" class="node" pointer-events="visible" data-name="n19">
+
+<polygon fill="none" stroke="black" points="643.82,-1192.8 452.18,-1192.8 452.18,-1156.8 643.82,-1156.8 643.82,-1192.8" style=""/>
+<text text-anchor="middle" x="548" y="-1170.6" font-family="小赖字体" font-size="14.00" style="">(6) 周襄王 姬郑</text>
+</g>
+<!-- n18&#45;&gt;n19 -->
+<g id="edge22" class="edge" data-name="n18-&gt;n19">
+
+<path fill="none" stroke="black" d="M548.5,-1228.63C548.5,-1217.8 548.5,-1204.09 548.5,-1193.21" style=""/>
+</g>
+<!-- n20 -->
+<g id="node24" class="node" pointer-events="visible" data-name="n20">
+
+<polygon fill="none" stroke="black" points="647.32,-1120.8 444.68,-1120.8 444.68,-1084.8 647.32,-1084.8 647.32,-1120.8" style=""/>
+<text text-anchor="middle" x="546" y="-1098.6" font-family="小赖字体" font-size="14.00" style="">(7) 周顷王 姬壬臣</text>
+</g>
+<!-- n19&#45;&gt;n20 -->
+<g id="edge23" class="edge" data-name="n19-&gt;n20">
+
+<path fill="none" stroke="black" d="M548,-1156.63C548,-1145.8 548,-1132.09 548,-1121.21" style=""/>
+</g>
+<!-- n21 -->
+<g id="node25" class="node" pointer-events="visible" data-name="n21">
+
+<polygon fill="none" stroke="black" points="535.82,-1048.8 344.18,-1048.8 344.18,-1012.8 535.82,-1012.8 535.82,-1048.8" style=""/>
+<text text-anchor="middle" x="440" y="-1026.6" font-family="小赖字体" font-size="14.00" style="">(8) 周匡王 姬班</text>
+</g>
+<!-- n20&#45;&gt;n21 -->
+<g id="edge24" class="edge" data-name="n20-&gt;n21">
+
+<path fill="none" stroke="black" d="M490.38,-1084.63C490.38,-1073.8 490.38,-1060.09 490.38,-1049.21" style=""/>
+</g>
+<!-- n22 -->
+<g id="node26" class="node" pointer-events="visible" data-name="n22">
+
+<polygon fill="none" stroke="black" points="532.82,-976.8 341.18,-976.8 341.18,-940.8 532.82,-940.8 532.82,-976.8" style=""/>
+<text text-anchor="middle" x="437" y="-954.6" font-family="小赖字体" font-size="14.00" style="">(9) 周定王 姬瑜</text>
+</g>
+<!-- n21&#45;&gt;n22 -->
+<g id="edge25" class="edge" data-name="n21-&gt;n22">
+
+<path fill="none" stroke="black" d="M438.5,-1012.63C438.5,-1001.8 438.5,-988.09 438.5,-977.21" style=""/>
+</g>
+<!-- n23 -->
+<g id="node27" class="node" pointer-events="visible" data-name="n23">
+
+<polygon fill="none" stroke="black" points="529.32,-904.8 330.68,-904.8 330.68,-868.8 529.32,-868.8 529.32,-904.8" style=""/>
+<text text-anchor="middle" x="430" y="-882.6" font-family="小赖字体" font-size="14.00" style="">(10) 周简王 姬夷</text>
+</g>
+<!-- n22&#45;&gt;n23 -->
+<g id="edge26" class="edge" data-name="n22-&gt;n23">
+
+<path fill="none" stroke="black" d="M435.25,-940.63C435.25,-929.8 435.25,-916.09 435.25,-905.21" style=""/>
+</g>
+<!-- n24 -->
+<g id="node28" class="node" pointer-events="visible" data-name="n24">
+
+<polygon fill="none" stroke="black" points="521.82,-832.8 312.18,-832.8 312.18,-796.8 521.82,-796.8 521.82,-832.8" style=""/>
+<text text-anchor="middle" x="417" y="-810.6" font-family="小赖字体" font-size="14.00" style="">(11) 周灵王 姬泄心</text>
+</g>
+<!-- n23&#45;&gt;n24 -->
+<g id="edge27" class="edge" data-name="n23-&gt;n24">
+
+<path fill="none" stroke="black" d="M426.12,-868.63C426.12,-857.8 426.12,-844.09 426.12,-833.21" style=""/>
+</g>
+<!-- n25 -->
+<g id="node29" class="node" pointer-events="visible" data-name="n25">
+
+<polygon fill="none" stroke="black" points="501.32,-760.8 302.68,-760.8 302.68,-724.8 501.32,-724.8 501.32,-760.8" style=""/>
+<text text-anchor="middle" x="402" y="-738.6" font-family="小赖字体" font-size="14.00" style="">(12) 周景王 姬贵</text>
+</g>
+<!-- n24&#45;&gt;n25 -->
+<g id="edge28" class="edge" data-name="n24-&gt;n25">
+
+<path fill="none" stroke="black" d="M406.88,-796.63C406.88,-785.8 406.88,-772.09 406.88,-761.21" style=""/>
+</g>
+<!-- n26 -->
+<g id="node30" class="node" pointer-events="visible" data-name="n26">
+
+<polygon fill="none" stroke="black" points="486.32,-688.8 287.68,-688.8 287.68,-652.8 486.32,-652.8 486.32,-688.8" style=""/>
+<text text-anchor="middle" x="387" y="-666.6" font-family="小赖字体" font-size="14.00" style="">(13) 周悼王 姬猛</text>
+</g>
+<!-- n25&#45;&gt;n26 -->
+<g id="edge29" class="edge" data-name="n25-&gt;n26">
+
+<path fill="none" stroke="black" d="M394.5,-724.63C394.5,-713.8 394.5,-700.09 394.5,-689.21" style=""/>
+</g>
+<!-- n26_1 -->
+<g id="node31" class="node" pointer-events="visible" data-name="n26_1">
+
+<polygon fill="none" stroke="black" points="939.71,-688.8 702.29,-688.8 702.29,-652.8 939.71,-652.8 939.71,-688.8" style=""/>
+<text text-anchor="middle" x="821" y="-666.6" font-family="小赖字体" font-size="14.00" style="">(14) 周敬王 姬匄（gài）</text>
+</g>
+<!-- n26&#45;&gt;n26_1 -->
+<g id="edge30" class="edge" data-name="n26-&gt;n26_1">
+
+<path fill="none" stroke="black" d="M486.57,-670C550.63,-670 634.24,-670 701.83,-670" style=""/>
+<text text-anchor="middle" x="583.7" y="-674.2" font-family="Times,serif" font-size="14.00" style="">弟弟</text>
+</g>
+<!-- n27 -->
+<g id="node32" class="node" pointer-events="visible" data-name="n27">
+
+<polygon fill="none" stroke="black" points="805.32,-616.8 606.68,-616.8 606.68,-580.8 805.32,-580.8 805.32,-616.8" style=""/>
+<text text-anchor="middle" x="706" y="-594.6" font-family="小赖字体" font-size="14.00" style="">(15) 周元王 姬仁</text>
+</g>
+<!-- n26_1&#45;&gt;n27 -->
+<g id="edge31" class="edge" data-name="n26_1-&gt;n27">
+
+<path fill="none" stroke="black" d="M753.78,-652.63C753.78,-641.8 753.78,-628.09 753.78,-617.21" style=""/>
+</g>
+<!-- n28 -->
+<g id="node33" class="node" pointer-events="visible" data-name="n28">
+
+<polygon fill="none" stroke="black" points="696.82,-544.8 487.18,-544.8 487.18,-508.8 696.82,-508.8 696.82,-544.8" style=""/>
+<text text-anchor="middle" x="592" y="-522.6" font-family="小赖字体" font-size="14.00" style="">(16) 周贞定王 姬介</text>
+</g>
+<!-- n27&#45;&gt;n28 -->
+<g id="edge32" class="edge" data-name="n27-&gt;n28">
+
+<path fill="none" stroke="black" d="M651.62,-580.63C651.62,-569.8 651.62,-556.09 651.62,-545.21" style=""/>
+</g>
+<!-- n29 -->
+<g id="node34" class="node" pointer-events="visible" data-name="n29">
+
+<polygon fill="none" stroke="black" points="468.82,-468 259.18,-468 259.18,-432 468.82,-432 468.82,-468" style=""/>
+<text text-anchor="middle" x="364" y="-445.8" font-family="小赖字体" font-size="14.00" style="">(17) 周哀王 姬去疾</text>
+</g>
+<!-- n28&#45;&gt;n29 -->
+<g id="edge33" class="edge" data-name="n28-&gt;n29">
+
+<path fill="none" stroke="black" d="M486.94,-526C432.85,-526 378.12,-526 378.12,-526 378.12,-526 378.12,-490.89 378.12,-468.4" style=""/>
+</g>
+<!-- n29_1 -->
+<g id="node35" class="node" pointer-events="visible" data-name="n29_1">
+
+<polygon fill="none" stroke="black" points="883.32,-468 684.68,-468 684.68,-432 883.32,-432 883.32,-468" style=""/>
+<text text-anchor="middle" x="784" y="-445.8" font-family="小赖字体" font-size="14.00" style="">(18) 周思王 姬叔</text>
+</g>
+<!-- n29&#45;&gt;n29_1 -->
+<g id="edge34" class="edge" data-name="n29-&gt;n29_1">
+
+<path fill="none" stroke="black" d="M469.17,-450C535.14,-450 619.67,-450 684.53,-450" style=""/>
+<text text-anchor="middle" x="554.1" y="-454.2" font-family="Times,serif" font-size="14.00" style="">被杀 弟弟</text>
+</g>
+<!-- n29_2 -->
+<g id="node36" class="node" pointer-events="visible" data-name="n29_2">
+
+<polygon fill="none" stroke="black" points="1298.32,-468 1099.68,-468 1099.68,-432 1298.32,-432 1298.32,-468" style=""/>
+<text text-anchor="middle" x="1199" y="-445.8" font-family="小赖字体" font-size="14.00" style="">(19) 周考王 姬嵬</text>
+</g>
+<!-- n29_1&#45;&gt;n29_2 -->
+<g id="edge35" class="edge" data-name="n29_1-&gt;n29_2">
+
+<path fill="none" stroke="black" d="M883.67,-450C949.02,-450 1034.13,-450 1099.45,-450" style=""/>
+<text text-anchor="middle" x="968.81" y="-454.2" font-family="Times,serif" font-size="14.00" style="">被杀 弟弟</text>
+</g>
+<!-- n30 -->
+<g id="node37" class="node" pointer-events="visible" data-name="n30">
+
+<polygon fill="none" stroke="black" points="1297.82,-396 1088.18,-396 1088.18,-360 1297.82,-360 1297.82,-396" style=""/>
+<text text-anchor="middle" x="1193" y="-373.8" font-family="小赖字体" font-size="14.00" style="">(20) 周威烈王 姬午</text>
+</g>
+<!-- n29_2&#45;&gt;n30 -->
+<g id="edge37" class="edge" data-name="n29_2-&gt;n30">
+
+<path fill="none" stroke="black" d="M1198.62,-431.83C1198.62,-421 1198.62,-407.29 1198.62,-396.41" style=""/>
+</g>
+<!-- n29_3 -->
+<g id="node42" class="node" pointer-events="visible" data-name="n29_3">
+
+<polygon fill="#e8f0fe" stroke="black" points="1753,-468 1515,-468 1515,-432 1753,-432 1753,-468" style=""/>
+<text text-anchor="middle" x="1634" y="-445.8" font-family="小赖字体" font-size="14.00" style="">姬揭（西周桓公·西周公）</text>
+</g>
+<!-- n29_2&#45;&gt;n29_3 -->
+<g id="edge36" class="edge" data-name="n29_2-&gt;n29_3">
+
+<path fill="none" stroke="black" d="M1298.8,-450C1363.01,-450 1446.81,-450 1514.56,-450" style=""/>
+<text text-anchor="middle" x="1368.18" y="-454.2" font-family="Times,serif" font-size="14.00" style="">弟弟 分封西周国</text>
+</g>
+<!-- n31 -->
+<g id="node38" class="node" pointer-events="visible" data-name="n31">
+
+<polygon fill="none" stroke="black" points="1292.32,-324 1093.68,-324 1093.68,-288 1292.32,-288 1292.32,-324" style=""/>
+<text text-anchor="middle" x="1193" y="-301.8" font-family="小赖字体" font-size="14.00" style="">(21) 周安王 姬骄</text>
+</g>
+<!-- n30&#45;&gt;n31 -->
+<g id="edge38" class="edge" data-name="n30-&gt;n31">
+
+<path fill="none" stroke="black" d="M1193,-359.83C1193,-349 1193,-335.29 1193,-324.41" style=""/>
+</g>
+<!-- n32 -->
+<g id="node39" class="node" pointer-events="visible" data-name="n32">
+
+<polygon fill="none" stroke="black" points="1292.32,-252 1093.68,-252 1093.68,-216 1292.32,-216 1292.32,-252" style=""/>
+<text text-anchor="middle" x="1193" y="-229.8" font-family="小赖字体" font-size="14.00" style="">(22) 周显王 姬扁</text>
+</g>
+<!-- n31&#45;&gt;n32 -->
+<g id="edge39" class="edge" data-name="n31-&gt;n32">
+
+<path fill="none" stroke="black" d="M1193,-287.83C1193,-277 1193,-263.29 1193,-252.41" style=""/>
+</g>
+<!-- n33 -->
+<g id="node40" class="node" pointer-events="visible" data-name="n33">
+
+<polygon fill="none" stroke="black" points="1297.82,-180 1088.18,-180 1088.18,-144 1297.82,-144 1297.82,-180" style=""/>
+<text text-anchor="middle" x="1193" y="-157.8" font-family="小赖字体" font-size="14.00" style="">(23) 周慎靓王 姬定</text>
+</g>
+<!-- n32&#45;&gt;n33 -->
+<g id="edge40" class="edge" data-name="n32-&gt;n33">
+
+<path fill="none" stroke="black" d="M1193,-215.83C1193,-205 1193,-191.29 1193,-180.41" style=""/>
+</g>
+<!-- n34 -->
+<g id="node41" class="node" pointer-events="visible" data-name="n34">
+
+<polygon fill="none" stroke="black" points="1292.32,-108 1093.68,-108 1093.68,-72 1292.32,-72 1292.32,-108" style=""/>
+<text text-anchor="middle" x="1193" y="-85.8" font-family="小赖字体" font-size="14.00" style="">(24) 周赧王 姬延</text>
+</g>
+<!-- n33&#45;&gt;n34 -->
+<g id="edge41" class="edge" data-name="n33-&gt;n34">
+
+<path fill="none" stroke="black" d="M1193,-143.83C1193,-133 1193,-119.29 1193,-108.41" style=""/>
+</g>
+<!-- zhouxi3 -->
+<g id="node45" class="node" pointer-events="visible" data-name="zhouxi3">
+
+<polygon fill="none" stroke="black" points="1750,-108 1508,-108 1508,-72 1750,-72 1750,-108" style=""/>
+<text text-anchor="middle" x="1629" y="-85.8" font-family="小赖字体" font-size="14.00" style="">西周武公（随赧王亡于秦）</text>
+</g>
+<!-- n34&#45;&gt;zhouxi3 -->
+<g id="edge47" class="edge" data-name="n34-&gt;zhouxi3">
+
+<path fill="none" stroke="black" d="M1292.75,-90C1356.6,-90 1439.85,-90 1507.54,-90" style=""/>
+<text text-anchor="middle" x="1389.65" y="-94.2" font-family="Times,serif" font-size="14.00" style="">依附</text>
+</g>
+<!-- zhouxi1 -->
+<g id="node43" class="node" pointer-events="visible" data-name="zhouxi1">
+
+<polygon fill="none" stroke="black" points="1713,-396 1555,-396 1555,-360 1713,-360 1713,-396" style=""/>
+<text text-anchor="middle" x="1634" y="-373.8" font-family="小赖字体" font-size="14.00" style="">西周威公</text>
+</g>
+<!-- n29_3&#45;&gt;zhouxi1 -->
+<g id="edge42" class="edge" data-name="n29_3-&gt;zhouxi1">
+
+<path fill="none" stroke="black" d="M1634,-431.83C1634,-421 1634,-407.29 1634,-396.41" style=""/>
+</g>
+<!-- zhouxi2 -->
+<g id="node44" class="node" pointer-events="visible" data-name="zhouxi2">
+
+<polygon fill="none" stroke="black" points="1713,-252 1555,-252 1555,-216 1713,-216 1713,-252" style=""/>
+<text text-anchor="middle" x="1634" y="-229.8" font-family="小赖字体" font-size="14.00" style="">西周惠公</text>
+</g>
+<!-- zhouxi1&#45;&gt;zhouxi2 -->
+<g id="edge43" class="edge" data-name="zhouxi1-&gt;zhouxi2">
+
+<path fill="none" stroke="black" d="M1634,-359.76C1634,-332.06 1634,-279.7 1634,-252.09" style=""/>
+</g>
+<!-- zhouxi2&#45;&gt;zhouxi3 -->
+<g id="edge44" class="edge" data-name="zhouxi2-&gt;zhouxi3">
+
+<path fill="none" stroke="black" d="M1607.67,-215.76C1607.67,-188.06 1607.67,-135.7 1607.67,-108.09" style=""/>
+</g>
+<!-- zhoudong1 -->
+<g id="node46" class="node" pointer-events="visible" data-name="zhoudong1">
+
+<polygon fill="none" stroke="black" points="2128,-180 1918,-180 1918,-144 2128,-144 2128,-180" style=""/>
+<text text-anchor="middle" x="2023" y="-157.8" font-family="小赖字体" font-size="14.00" style="">东周惠公（东周公）</text>
+</g>
+<!-- zhouxi2&#45;&gt;zhoudong1 -->
+<g id="edge45" class="edge" data-name="zhouxi2-&gt;zhoudong1">
+
+<path fill="none" stroke="black" d="M1660.33,-215.83C1660.33,-194.5 1660.33,-162 1660.33,-162 1660.33,-162 1810.54,-162 1917.61,-162" style=""/>
+<text text-anchor="middle" x="1735.81" y="-166.2" font-family="Times,serif" font-size="14.00" style="">分出东周国</text>
+</g>
+<!-- qin1 -->
+<g id="node48" class="node" pointer-events="visible" data-name="qin1">
+
+<polygon fill="#ffa038" stroke="black" points="1735.18,-36 1460.82,-36 1460.82,0 1735.18,0 1735.18,-36" style=""/>
+<text text-anchor="middle" x="1598" y="-13.8" font-family="小赖字体" font-size="14.00" style="">BC256 秦灭西周国（西周武公）</text>
+</g>
+<!-- zhouxi3&#45;&gt;qin1 -->
+<g id="edge49" class="edge" data-name="zhouxi3-&gt;qin1">
+
+<path fill="none" stroke="black" d="M1621.67,-71.83C1621.67,-61 1621.67,-47.29 1621.67,-36.41" style=""/>
+</g>
+<!-- zhoudong2 -->
+<g id="node47" class="node" pointer-events="visible" data-name="zhoudong2">
+
+<polygon fill="none" stroke="black" points="2218,-108 1966,-108 1966,-72 2218,-72 2218,-108" style=""/>
+<text text-anchor="middle" x="2092" y="-85.8" font-family="小赖字体" font-size="14.00" style="">东周文君（东周国最后一代）</text>
+</g>
+<!-- zhoudong1&#45;&gt;zhoudong2 -->
+<g id="edge46" class="edge" data-name="zhoudong1-&gt;zhoudong2">
+
+<path fill="none" stroke="black" d="M2047,-143.83C2047,-133 2047,-119.29 2047,-108.41" style=""/>
+</g>
+<!-- qin2 -->
+<g id="node49" class="node" pointer-events="visible" data-name="qin2">
+
+<polygon fill="#c4b0ff" stroke="black" points="2292.68,-36 1951.32,-36 1951.32,0 2292.68,0 2292.68,-36" style=""/>
+<text text-anchor="middle" x="2122" y="-13.8" font-family="小赖字体" font-size="14.00" style="">BC249 秦灭掉东周国（东周文君） 周王朝灭亡</text>
+</g>
+<!-- zhoudong2&#45;&gt;qin2 -->
+<g id="edge48" class="edge" data-name="zhoudong2-&gt;qin2">
+
+<path fill="none" stroke="black" d="M2092,-71.83C2092,-61 2092,-47.29 2092,-36.41" style=""/>
+</g>
+</g>
+</svg>

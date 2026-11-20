@@ -1,0 +1,176 @@
+digraph {
+    splines="ortho";
+    forcelabels="true";
+    newrank="true";
+    node [shape="box", fontname="小赖字体", margin="0.8,0.1"];
+    edge [dir="none"];
+    nodesep=3;
+    rankdir="TB";
+    subgraph cluster_shang {
+        label="商 / 先周";
+        style="rounded";
+        color="#888888";
+        n1 [label="(-1) [商] 周侯 季历"];
+        n2 [label="(0) [商] 周文王 姬昌"];
+    }
+    subgraph cluster_xizhou {
+        label="西周";
+        style="rounded";
+        color="#1f77b4";
+        n3 [label="(1) 周武王 姬发"];
+        n4 [label="(2) 周成王 姬诵"];
+        n4_1 [label="周公旦", style="filled", fillcolor="#eeeeee"];
+        n5 [label="(3) 周康王 姬钊"];
+        n6 [label="(4) 周昭王 姬瑕"];
+        n7 [label="(5) 周穆王 姬满"];
+        n8 [label="(6) 周恭王 姬繄扈"];
+        n9 [label="(7) 周懿王 姬囏"];
+        n8_1 [label="(8) 周孝王 姬辟方"];
+        n10 [label="(9) 周夷王 姬燮"];
+        n11 [label="(10) 周厉王 姬胡"];
+        n11_1 [label="(10-1) 周定公 召穆公 共和执政 14年", style="filled", fillcolor="#eeeeee"];
+        n12 [label="(11) 周宣王 姬静"];
+        n13 [label="(12) 周幽王 姬宫湦"];
+    }
+    subgraph cluster_dongzhou {
+        label="东周";
+        style="rounded";
+        color="#2ca02c";
+        n14 [label="(1) 周平王 姬宜臼"];
+        n14_1 [label="(1-1) 周携王 姬余臣"];
+        n15 [label="(2) 周桓王 姬林"];
+        n16 [label="(3) 周庄王 姬佗"];
+        n17 [label="(4) 周釐王 姬胡齐"];
+        n18 [label="(5) 周惠王 姬阆"];
+        n19 [label="(6) 周襄王 姬郑"];
+        n20 [label="(7) 周顷王 姬壬臣"];
+        n21 [label="(8) 周匡王 姬班"];
+        n22 [label="(9) 周定王 姬瑜"];
+        n23 [label="(10) 周简王 姬夷"];
+        n24 [label="(11) 周灵王 姬泄心"];
+        n25 [label="(12) 周景王 姬贵"];
+        n26 [label="(13) 周悼王 姬猛"];
+        n26_1 [label="(14) 周敬王 姬匄（gài）"];
+        n27 [label="(15) 周元王 姬仁"];
+        n28 [label="(16) 周贞定王 姬介"];
+        n29 [label="(17) 周哀王 姬去疾"];
+        n29_1 [label="(18) 周思王 姬叔"];
+        n29_2 [label="(19) 周考王 姬嵬"];
+        n30 [label="(20) 周威烈王 姬午"];
+        n31 [label="(21) 周安王 姬骄"];
+        n32 [label="(22) 周显王 姬扁"];
+        n33 [label="(23) 周慎靓王 姬定"];
+        n34 [label="(24) 周赧王 姬延"];
+    }
+    subgraph cluster_fenguo {
+        label="西周国 / 东周国";
+        style="rounded";
+        color="#ff7f0e";
+        n29_3 [label="姬揭（西周桓公·西周公）", style="filled", fillcolor="#e8f0fe"];
+        // ===== 西周国一脉（姬揭后代）=====
+        zhouxi1 [label="西周威公"];
+        zhouxi2 [label="西周惠公"];
+        zhouxi3 [label="西周武公（随赧王亡于秦）"];
+        // 西周惠公分出东周国
+        zhoudong1 [label="东周惠公（东周公）"];
+        zhoudong2 [label="东周文君（东周国最后一代）"];
+    }
+    // 秦
+    qin1 [label="BC256 秦灭西周国（西周武公）", style="filled", fillcolor="#ffa038"];
+    qin2 [label="BC249 秦灭掉东周国（东周文君） 周王朝灭亡", style="filled", fillcolor="#c4b0ff"];
+    // 主线传承
+    n1 -> n2;
+    n2 -> n3;
+    n3 -> n4;
+    n4 -> n5;
+    n5 -> n6;
+    n6 -> n7;
+    n7 -> n8;
+    n8 -> n9;
+    {
+        rank="same";
+        n8;
+        n8_1;
+    }
+    n8 -> n8_1 [xlabel="弟弟"];
+    n9 -> n10;
+    n10 -> n11;
+    {
+        rank="same";
+        n4;
+        n4_1;
+    }
+    n4_1 -> n4 [xlabel="辅佐"];
+    {
+        rank="same";
+        n11;
+        n11_1;
+    }
+    n11 -> n11_1;
+    n11_1 -> n12;
+    n12 -> n13;
+    // 二王并立：幽王之下分平王、携王
+    {
+        rank="same";
+        n14;
+        n14_1;
+    }
+    n13 -> n14;
+    n13 -> n14_1;
+    n14 -> n15;
+    n15 -> n16;
+    n16 -> n17;
+    n17 -> n18;
+    n18 -> n19;
+    n19 -> n20;
+    n20 -> n21;
+    n21 -> n22;
+    n22 -> n23;
+    n23 -> n24;
+    n24 -> n25;
+    n25 -> n26;
+    {
+        rank="same";
+        n26;
+        n26_1;
+    }
+    n26 -> n26_1 [xlabel="弟弟"];
+    n26_1 -> n27;
+    n27 -> n28;
+    n28 -> n29;
+    {
+        rank="same";
+        n29;
+        n29_1;
+        n29_2;
+        n29_3;
+    }
+    n29 -> n29_1 [xlabel="被杀 弟弟"];
+    n29_1 -> n29_2 [xlabel="被杀 弟弟"];
+    n29_2 -> n29_3 [xlabel="弟弟 分封西周国"];
+    n29_2 -> n30;
+    n30 -> n31;
+    n31 -> n32;
+    n32 -> n33;
+    n33 -> n34;
+    // ========= 西周国、东周国旁支链条 =========
+    n29_3 -> zhouxi1;
+    zhouxi1 -> zhouxi2;
+    zhouxi2 -> zhouxi3;
+    zhouxi2 -> zhoudong1 [xlabel="分出东周国"];
+    zhoudong1 -> zhoudong2;
+    // 赧王依附西周武公
+    {
+        rank="same";
+        n34;
+        zhouxi3;
+    }
+    n34 -> zhouxi3 [xlabel="依附"];
+    {
+        rank="same";
+        qin1;
+        qin2;
+    }
+    zhoudong2 -> qin2;
+    zhouxi3 -> qin1;
+}

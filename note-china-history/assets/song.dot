@@ -1,0 +1,225 @@
+digraph SONG {
+    splines="ortho";
+    forcelabels="true";
+    node [shape="box", fontname="小赖字体", margin="0.8,0.1"];
+    edge [dir="none", fontname="小赖字体", fontsize=10];
+    nodesep=1.6;
+    ranksep=0.55;
+    rankdir="TB";
+    labelloc="t";
+    fontsize=24;
+    fontname="小赖字体";
+    label="宋朝历史脉络（详细图）";
+
+    // ==================== 五代十国 ====================
+    wudai [label="五代十国\n907—979", shape="plaintext", fontsize=16];
+
+    // ==================== 北宋皇帝 ====================
+    l1 [label="1. 宋太祖 赵匡胤\n960—976\n开国", color="#5dc0e8", penwidth=2];
+    l2 [label="2. 宋太宗 赵光义\n976—997\n统一", color="#5dc0e8", penwidth=2];
+    l3 [label="3. 宋真宗 赵恒\n997—1022\n澶渊", color="#5dc0e8", penwidth=2];
+    l4 [label="4. 宋仁宗 赵祯\n1022—1063\n庆历", color="#5dc0e8", penwidth=2];
+    l5 [label="5. 宋英宗 赵曙\n1063—1067\n濮议", color="#5dc0e8", penwidth=2];
+    l6 [label="6. 宋神宗 赵顼\n1067—1085\n变法", color="#5dc0e8", penwidth=2];
+    l7 [label="7. 宋哲宗 赵煦\n1085—1100\n绍述", color="#5dc0e8", penwidth=2];
+    l8 [label="8. 宋徽宗 赵佶\n1100—1125\n禅位", color="#5dc0e8", penwidth=2];
+    l9 [label="9. 宋钦宗 赵桓\n1125—1127\n靖康", color="#5dc0e8", penwidth=2];
+
+    // ==================== 南宋皇帝 ====================
+    l10 [label="10. 宋高宗 赵构\n1127—1162\n南渡", color="#8e5bd1", penwidth=2];
+    l11 [label="11. 宋孝宗 赵昚\n1162—1189\n乾淳", color="#8e5bd1", penwidth=2];
+    l12 [label="12. 宋光宗 赵惇\n1189—1194\n内禅", color="#8e5bd1", penwidth=2];
+    l13 [label="13. 宋宁宗 赵扩\n1194—1224\n开禧", color="#8e5bd1", penwidth=2];
+    l14 [label="14. 宋理宗 赵昀\n1224—1264\n联蒙", color="#8e5bd1", penwidth=2];
+    l15 [label="15. 宋度宗 赵禥\n1264—1274\n襄阳", color="#8e5bd1", penwidth=2];
+    l16 [label="16. 宋恭帝 赵㬎\n1274—1276\n降元", color="#8e5bd1", penwidth=2];
+    l17 [label="17. 宋端宗 赵昰\n1276—1278\n南逃", color="#8e5bd1", penwidth=2];
+    l18 [label="18. 宋末帝 赵昺\n1278—1279\n崖山", color="#8e5bd1", penwidth=2];
+
+    // ==================== 皇后 / 太后 ====================
+    l3_1  [label="刘娥\n真宗皇后 · 垂帘", style="filled", fillcolor="#fdf2f2", color="#c0504d"];
+    l5_1  [label="高太后\n英宗皇后 · 垂帘", style="filled", fillcolor="#fdf2f2", color="#c0504d"];
+    l6_1  [label="向太后\n神宗皇后 · 垂帘", style="filled", fillcolor="#fdf2f2", color="#c0504d"];
+    l7_1  [label="孟皇后\n哲宗皇后", style="filled", fillcolor="#fdf2f2", color="#c0504d"];
+    l8_1  [label="韦太后\n徽宗妃 · 高宗生母", style="filled", fillcolor="#fdf2f2", color="#c0504d"];
+    l10_1 [label="吴皇后\n高宗皇后", style="filled", fillcolor="#fdf2f2", color="#c0504d"];
+    l14_1 [label="谢道清\n理宗皇后 · 垂帘", style="filled", fillcolor="#fdf2f2", color="#c0504d"];
+
+    // ==================== 旁支 / 本生父系 ====================
+    zhao_hongyin [label="宋宣祖 赵弘殷\n（追尊）", style="filled", fillcolor="#f0f0f0"];
+    zhao_dezhao  [label="赵德昭\n太祖次子", style="filled", fillcolor="#f0f0f0"];
+    zhao_defang  [label="赵德芳\n太祖四子", style="filled", fillcolor="#f0f0f0"];
+    zhao_yuanfen [label="赵元份\n太宗第八子", style="filled", fillcolor="#f0f0f0"];
+    zhao_yunrang [label="赵允让\n濮王", style="filled", fillcolor="#f0f0f0"];
+    zhao_zicheng [label="赵子偁\n孝宗生父", style="filled", fillcolor="#f0f0f0"];
+    zhao_xilu    [label="赵希瓐\n理宗生父", style="filled", fillcolor="#f0f0f0"];
+    zhao_yurui   [label="赵与芮\n度宗生父", style="filled", fillcolor="#f0f0f0"];
+
+    // ==================== 关键事件 ====================
+    e_chenqiao [label="960 陈桥兵变\n赵匡胤黄袍加身", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_cup      [label="961 杯酒释兵权\n赵普", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_zhuying  [label="976 烛影斧声\n金匮之盟", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_gaoliang [label="979 高粱河之战\n986 雍熙北伐 · 杨业", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_chanyuan [label="1005 澶渊之盟\n寇准", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_xixia    [label="1038—1044 宋夏战争\n李元昊 · 庆历和议", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_qingli   [label="1043 庆历新政\n范仲淹", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_puyi     [label="1063 濮议\n英宗追尊生父", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_wanganshi [label="1069 王安石变法\n熙宁新政", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_yuanyou  [label="1085—1093 元祐更化\n高太后 · 司马光", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_chongning [label="1102 崇宁党禁\n蔡京", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_haishang [label="1120 海上之盟\n联金灭辽", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_jingkang [label="1127 靖康之变\n金破东京 · 二帝北狩\n赵构建炎南渡", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_huangtiandang [label="1130 黄天荡之战\n韩世忠", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_shaoxing [label="1141 绍兴和议\n1142 岳飞遇害 · 秦桧主和", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_caishi   [label="1161 采石之战\n虞允文", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_longxing [label="1163—1164 隆兴北伐\n隆兴和议", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_shaoxi   [label="1194 绍熙内禅\n吴太后", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_qingyuan [label="1195—1200 庆元党禁\n韩侂胄", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_kaixi    [label="1206—1208 开禧北伐\n韩侂胄 · 嘉定和议", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_lihe     [label="1224 史弥远废济王\n拥立理宗", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_miejin   [label="1234 联蒙灭金\n孟珙 · 端平入洛", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_diaoyu   [label="1259 钓鱼城之战\n蒙哥汗死", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_xiangyang [label="1267—1273 襄阳之战\n贾似道 · 吕文焕", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_linan    [label="1276 临安降元\n恭帝被俘", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+    e_yashan   [label="1279 崖山海战\n文天祥 · 陆秀夫 · 张世杰", style="rounded,filled", fillcolor="#fff3cd", color="#c9a227"];
+
+    // ==================== 辽 / 西辽 ====================
+    liao1 [label="辽太祖 耶律阿保机\n916 建契丹", color="#ff7f0e", penwidth=2];
+    liao2 [label="辽太宗 耶律德光\n947 改国号辽", color="#ff7f0e", penwidth=2];
+    liao3 [label="辽圣宗 耶律隆绪\n萧太后（承天太后）\n982—1031", color="#ff7f0e", penwidth=2];
+    liao4 [label="辽天祚帝 耶律延禧\n1101—1125", color="#ff7f0e", penwidth=2];
+    liao5 [label="西辽 耶律大石\n1124—1218", color="#ff7f0e", penwidth=2];
+
+    // ==================== 西夏 ====================
+    xx1 [label="夏景宗 李元昊\n1038 称帝", color="#e6b800", penwidth=2];
+    xx2 [label="夏末帝 李睍\n1227 降蒙", color="#e6b800", penwidth=2];
+
+    // ==================== 金 ====================
+    jin1 [label="金太祖 完颜阿骨打\n1115 建金", color="#c0504d", penwidth=2];
+    jin2 [label="金太宗 完颜晟\n1125 灭辽 · 1127 靖康", color="#c0504d", penwidth=2];
+    jin3 [label="海陵王 完颜亮\n1149—1161", color="#c0504d", penwidth=2];
+    jin4 [label="金世宗 完颜雍\n1161—1189 大定之治", color="#c0504d", penwidth=2];
+    jin5 [label="金哀宗 完颜守绪\n1224—1234", color="#c0504d", penwidth=2];
+
+    // ==================== 蒙古 / 元 ====================
+    mg1 [label="成吉思汗 铁木真\n1206 建大蒙古国", color="#4f6228", penwidth=2];
+    mg2 [label="窝阔台\n1234 灭金", color="#4f6228", penwidth=2];
+    mg3 [label="蒙哥\n1259 钓鱼城", color="#4f6228", penwidth=2];
+    mg4 [label="元世祖 忽必烈\n1271 建元 · 1279 灭宋", color="#4f6228", penwidth=2];
+    dali [label="大理\n937—1253", style="filled", fillcolor="#f0f0f0"];
+
+    // ==================== 主线：五代 → 北宋 → 南宋 → 元 ====================
+    wudai -> e_chenqiao [style="tapered"];
+    e_chenqiao -> l1 [style="tapered"];
+    l1 -> e_cup [style="dotted"];
+    e_cup -> e_zhuying [style="dotted"];
+    e_zhuying -> l2 [style="dotted", xlabel="兄终弟及"];
+    l2 -> e_gaoliang [style="dotted"];
+    e_gaoliang -> l3;
+    l3 -> e_chanyuan [style="dotted"];
+    e_chanyuan -> l4;
+    l4 -> e_xixia [style="dotted"];
+    e_xixia -> e_qingli [style="dotted"];
+    e_qingli -> l5;
+    l5 -> e_puyi [style="dotted"];
+    e_puyi -> l6;
+    l6 -> e_wanganshi [style="dotted"];
+    e_wanganshi -> l7;
+    l7 -> e_yuanyou [style="dotted"];
+    e_yuanyou -> l8;
+    l8 -> e_chongning [style="dotted"];
+    e_chongning -> e_haishang [style="dotted"];
+    e_haishang -> l9;
+    l9 -> e_jingkang [style="dotted"];
+    e_jingkang -> l10 [style="tapered"];
+    l10 -> e_huangtiandang [style="dotted"];
+    e_huangtiandang -> e_shaoxing [style="dotted"];
+    e_shaoxing -> e_caishi [style="dotted"];
+    e_caishi -> l11;
+    l11 -> e_longxing [style="dotted"];
+    e_longxing -> l12;
+    l12 -> e_shaoxi [style="dotted"];
+    e_shaoxi -> l13 [style="dotted"];
+    l13 -> e_qingyuan [style="dotted"];
+    e_qingyuan -> e_kaixi [style="dotted"];
+    e_kaixi -> e_lihe [style="dotted"];
+    e_lihe -> l14 [style="dotted"];
+    l14 -> e_miejin [style="dotted"];
+    e_miejin -> e_diaoyu [style="dotted"];
+    e_diaoyu -> l15;
+    l15 -> e_xiangyang [style="dotted"];
+    e_xiangyang -> l16;
+    l16 -> e_linan [style="dotted"];
+    e_linan -> l17 [style="dotted", xlabel="立其兄"];
+    l17 -> l18 [style="dotted", xlabel="弟弟"];
+    l18 -> e_yashan [style="dotted"];
+    e_yashan -> mg4 [style="tapered", xlabel="南宋亡"];
+
+    // ==================== 皇后与旁支 ====================
+    { rank="same"; l3; l3_1; }
+    { rank="same"; l5; l5_1; }
+    { rank="same"; l6; l6_1; }
+    { rank="same"; l7; l7_1; }
+    { rank="same"; l8; l8_1; }
+    { rank="same"; l10; l10_1; }
+    { rank="same"; l14; l14_1; }
+    l3  -> l3_1  [style="dashed", color="#c0504d", constraint="false"];
+    l5  -> l5_1  [style="dashed", color="#c0504d", constraint="false"];
+    l6  -> l6_1  [style="dashed", color="#c0504d", constraint="false"];
+    l7  -> l7_1  [style="dashed", color="#c0504d", constraint="false"];
+    l8  -> l8_1  [style="dashed", color="#c0504d", constraint="false"];
+    l10 -> l10_1 [style="dashed", color="#c0504d", constraint="false"];
+    l14 -> l14_1 [style="dashed", color="#c0504d", constraint="false"];
+
+    zhao_hongyin -> l1 [style="dashed", xlabel="子"];
+    zhao_hongyin -> l2 [style="dashed", xlabel="子"];
+    l1 -> zhao_dezhao [style="dashed", xlabel="次子"];
+    l1 -> zhao_defang [style="dashed", xlabel="四子"];
+    l2 -> zhao_yuanfen [style="dashed", xlabel="第八子"];
+    zhao_yuanfen -> zhao_yunrang [style="dashed", xlabel="子"];
+    zhao_yunrang -> l5 [style="dashed", xlabel="第十三子"];
+    zhao_defang -> zhao_zicheng [style="dashed", xlabel="后裔"];
+    zhao_zicheng -> l11 [style="dashed", xlabel="子"];
+    zhao_dezhao -> zhao_xilu [style="dashed", xlabel="后裔"];
+    zhao_xilu -> l14 [style="dashed", xlabel="子"];
+    zhao_xilu -> zhao_yurui [style="dashed", xlabel="子"];
+    zhao_yurui -> l15 [style="dashed", xlabel="子"];
+
+    { rank="same"; l10; zhao_zicheng; }
+    { rank="same"; l13; zhao_xilu; }
+    { rank="same"; l14; zhao_yurui; }
+
+    // ==================== 辽：太祖 → 天祚帝 → 西辽 ====================
+    liao1 -> liao2;
+    liao2 -> liao3;
+    liao3 -> liao4;
+    liao4 -> liao5 [style="dashed", xlabel="西迁"];
+    e_chanyuan -> liao3 [style="dotted", xlabel="宋辽议和"];
+    e_haishang -> liao4 [style="dotted", xlabel="联金灭辽"];
+    liao4 -> jin1 [style="tapered", xlabel="1125 金灭辽"];
+
+    // ==================== 西夏 ====================
+    xx1 -> xx2 [style="dashed", xlabel="传位"];
+    e_xixia -> xx1 [style="dotted", xlabel="宋夏战争"];
+    mg1 -> xx2 [style="tapered", xlabel="1227 蒙古灭西夏"];
+
+    // ==================== 金：太祖 → 哀宗 ====================
+    jin1 -> jin2;
+    jin2 -> jin3;
+    jin3 -> jin4;
+    jin4 -> jin5;
+    jin2 -> e_jingkang [style="tapered", xlabel="1127 攻破东京"];
+    jin3 -> e_caishi [style="dotted", xlabel="采石之战"];
+    e_longxing -> jin4 [style="dotted", xlabel="隆兴和议"];
+    jin5 -> e_miejin [style="tapered", xlabel="蔡州"];
+
+    // ==================== 蒙古 / 元 ====================
+    mg1 -> mg2;
+    mg2 -> mg3;
+    mg3 -> mg4;
+    mg3 -> dali [style="tapered", xlabel="1253 灭大理"];
+    e_kaixi -> mg1 [style="dotted", xlabel="1206 蒙古建国"];
+    e_miejin -> mg2 [style="dotted", xlabel="联蒙"];
+    e_diaoyu -> mg3 [style="dotted", xlabel="钓鱼城"];
+    e_linan -> mg4 [style="tapered", xlabel="1276 临安降元"];
+}
